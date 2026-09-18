@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OpenAI Developer Blog</title>
+    <link>https://developers.openai.com/blog</link>
+    <description>Developer articles from OpenAI.</description>
+    <language>en</language>
+    <item>
+      <title>Rethinking skills and prompts for GPT-6 Astra</title>
+      <link>https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Revisit skill descriptions, AGENTS.md, and task prompts to avoid bloated context.</description>
+    </item>
+    <item>
+      <title>Architectural visualization with Astra</title>
+      <link>https://developers.openai.com/blog/architectural-visualization-with-astra</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/architectural-visualization-with-astra</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <description>How I used Astra to design a house, refine its everyday details, and explore it through Blender camera tours and an Unreal Engine 5 walkthrough.</description>
+    </item>
+    <item>
+      <title>Building games with Astra</title>
+      <link>https://developers.openai.com/blog/how-to-build-games-with-astra</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/how-to-build-games-with-astra</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <description>How I built a procedural space exploration game in Codex, from concept art to planets you can land on.</description>
+    </item>
+    <item>
+      <title>Meet Rosalind Workbench: Empowering every scientist to be their own research team</title>
+      <link>https://developers.openai.com/blog/rosalind-workbench</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/rosalind-workbench</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+      <description>How guided tasks, scientific viewers, and sequencing analysis help researchers follow a question from data to evidence.</description>
+    </item>
+    <item>
+      <title>Automating repetitive work at OpenAI with Codex</title>
+      <link>https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <description>How Runme and WebMCP turn recurring engineering tasks into reviewable, reusable workflows.</description>
+    </item>
+    <item>
+      <title>Meet the winners of OpenAI Build Week</title>
+      <link>https://developers.openai.com/blog/build-week-winners</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/build-week-winners</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <description>From a short-staffed veterinary clinic to speech accessibility, spatial audio, and ancient machines, the winning projects started with problems their builders knew well.</description>
+    </item>
+    <item>
+      <title>Scaling cyber defenders with Daybreak</title>
+      <link>https://developers.openai.com/blog/scaling-cyber-defenders-with-daybreak</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/scaling-cyber-defenders-with-daybreak</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Use ChatGPT, Codex Security, and open-source tools to investigate threats, validate vulnerabilities, and move from findings to reviewed, verified fixes.</description>
+    </item>
+    <item>
+      <title>Codex as a platform: build on the open agent harness</title>
+      <link>https://developers.openai.com/blog/codex-as-a-platform</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/codex-as-a-platform</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Build Codex into the products and workflows your users already know.</description>
+    </item>
+    <item>
+      <title>Custom Code Review rules for Codex</title>
+      <link>https://developers.openai.com/blog/custom-code-review-rules-for-codex</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/custom-code-review-rules-for-codex</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Provide more detailed rules for Codex to spot issues and better adhere your conventions during code review.</description>
+    </item>
+    <item>
+      <title>Making private MCP servers reachable without making them public</title>
+      <link>https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <description>How we preserved private network boundaries while supporting MCP streaming, authentication, and an inspectable client.</description>
+    </item>
+    <item>
+      <title>Mastering remote engineering work from your phone</title>
+      <link>https://developers.openai.com/blog/mastering-codex-remote-for-engineering</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/mastering-codex-remote-for-engineering</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Use Remote in the ChatGPT mobile app to start, steer, review, and organize engineering work.</description>
+    </item>
+    <item>
+      <title>How Perplexity Brought Voice Search to Millions Using the Realtime API</title>
+      <link>https://developers.openai.com/blog/realtime-perplexity-computer</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/realtime-perplexity-computer</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Lessons from how Perplexity Computer&apos;s voice agent was built with the Realtime API.</description>
+    </item>
+    <item>
+      <title>Designing delightful frontends with GPT-5.4</title>
+      <link>https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Practical techniques for steering GPT-5.4 toward polished, production-ready frontend designs.</description>
+    </item>
+    <item>
+      <title>From prompts to products: One year of Responses</title>
+      <link>https://developers.openai.com/blog/one-year-of-responses</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/one-year-of-responses</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Five stories from developers building agentic products with the Responses API in its first year.</description>
+    </item>
+    <item>
+      <title>Using skills to accelerate OSS maintenance</title>
+      <link>https://developers.openai.com/blog/skills-agents-sdk</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/skills-agents-sdk</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+      <description>Using skills and GitHub Actions to optimize Codex workflows in the OpenAI Agents SDK repos.</description>
+    </item>
+    <item>
+      <title>Building frontend UIs with Codex and Figma</title>
+      <link>https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Use Codex and Figma to bring real, running interfaces into Figma, refine them, and bring changes back to Codex.</description>
+    </item>
+    <item>
+      <title>Run long horizon tasks with Codex</title>
+      <link>https://developers.openai.com/blog/run-long-horizon-tasks-with-codex</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/run-long-horizon-tasks-with-codex</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shell + Skills + Compaction: Tips for long-running agents that do real work</title>
+      <link>https://developers.openai.com/blog/skills-shell-tips</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/skills-shell-tips</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Practical patterns for building with skills, hosted shell, and server-side compaction in the Responses API.</description>
+    </item>
+    <item>
+      <title>15 lessons learned building ChatGPT Apps</title>
+      <link>https://developers.openai.com/blog/15-lessons-building-chatgpt-apps</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/15-lessons-building-chatgpt-apps</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+      <description>And how we incorporated them into a Codex Skill to help you build ChatGPT Apps 10x faster.</description>
+    </item>
+    <item>
+      <title>Testing Agent Skills Systematically with Evals</title>
+      <link>https://developers.openai.com/blog/eval-skills</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/eval-skills</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+      <description>A practical guide to turning agent skills into something you can test, score, and improve over time.</description>
+    </item>
+    <item>
+      <title>Supercharging Codex with JetBrains MCP at Skyscanner</title>
+      <link>https://developers.openai.com/blog/skyscanner-codex-jetbrains-mcp</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/skyscanner-codex-jetbrains-mcp</guid>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
+      <description>How Skyscanner integrated Codex CLI with JetBrains IDEs to speed up debugging, testing, and development workflows.</description>
+    </item>
+    <item>
+      <title>OpenAI for Developers in 2025</title>
+      <link>https://developers.openai.com/blog/openai-for-developers-2025</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/openai-for-developers-2025</guid>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <description>A year-end roundup of the biggest model, API, and platform shifts for building production-grade agents.</description>
+    </item>
+    <item>
+      <title>Updates for developers building with voice</title>
+      <link>https://developers.openai.com/blog/updates-audio-models</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/updates-audio-models</guid>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <description>New audio model snapshots and broader access to Custom Voices for production voice apps.</description>
+    </item>
+    <item>
+      <title>What makes a great ChatGPT app</title>
+      <link>https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</guid>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+      <description>How to build capabilities that make conversations better.</description>
+    </item>
+    <item>
+      <title>Using Codex for education at Dagster Labs</title>
+      <link>https://developers.openai.com/blog/codex-for-documentation-dagster</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/codex-for-documentation-dagster</guid>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <description>Learn how Dagster uses Codex in their open-source projects to accelerate documentation, translate content across mediums, and even measure how complete their docs are.</description>
+    </item>
+    <item>
+      <title>How Codex ran OpenAI DevDay 2025</title>
+      <link>https://developers.openai.com/blog/codex-at-devday</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/codex-at-devday</guid>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <description>Learn how Codex helped us build experiences, demos, products, and more</description>
+    </item>
+    <item>
+      <title>Why we built the Responses API</title>
+      <link>https://developers.openai.com/blog/responses-api</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/responses-api</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+      <description>How the Responses API unlocks persistent reasoning, hosted tools, and multimodal workflows for GPT-5.</description>
+    </item>
+    <item>
+      <title>Developer notes on the Realtime API</title>
+      <link>https://developers.openai.com/blog/realtime-api</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/realtime-api</guid>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Details worth noticing in recent realtime speech-to-speech updates</description>
+    </item>
+    <item>
+      <title>Hello, world!</title>
+      <link>https://developers.openai.com/blog/intro</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/intro</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Introducing our developer blog</description>
+    </item>
+  </channel>
+</rss>

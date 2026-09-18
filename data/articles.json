@@ -1,0 +1,382 @@
+{
+  "anthropic-engineering": [
+    {
+      "title": "How we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "description": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork."
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": "2026-04-23T00:00:00.000Z"
+    },
+    {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "publishedAt": "2026-04-08T00:00:00.000Z"
+    },
+    {
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "publishedAt": "2026-03-25T00:00:00.000Z"
+    },
+    {
+      "title": "Harness design for long-running application development",
+      "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+      "publishedAt": "2026-03-24T00:00:00.000Z"
+    },
+    {
+      "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
+      "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+      "publishedAt": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "url": "https://www.anthropic.com/engineering/building-c-compiler",
+      "publishedAt": "2026-02-05T00:00:00.000Z"
+    },
+    {
+      "title": "Quantifying infrastructure noise in agentic coding evals",
+      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "publishedAt": "2026-02-05T00:00:00.000Z"
+    },
+    {
+      "title": "Designing AI-resistant technical evaluations",
+      "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+      "publishedAt": "2026-01-21T00:00:00.000Z"
+    },
+    {
+      "title": "Demystifying evals for AI agents",
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "publishedAt": "2026-01-09T00:00:00.000Z"
+    },
+    {
+      "title": "Effective harnesses for long-running agents",
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "publishedAt": "2025-11-26T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing advanced tool use on the Claude Developer Platform",
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "publishedAt": "2025-11-24T00:00:00.000Z"
+    },
+    {
+      "title": "Code execution with MCP: Building more efficient agents",
+      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "publishedAt": "2025-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
+      "publishedAt": "2025-10-20T00:00:00.000Z"
+    },
+    {
+      "title": "Equipping agents for the real world with Agent Skills",
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "publishedAt": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "title": "Effective context engineering for AI agents",
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "publishedAt": "2025-09-29T00:00:00.000Z"
+    },
+    {
+      "title": "A postmortem of three recent issues",
+      "url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
+      "publishedAt": "2025-09-17T00:00:00.000Z"
+    },
+    {
+      "title": "Writing effective tools for agents — with agents",
+      "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+      "publishedAt": "2025-09-11T00:00:00.000Z"
+    },
+    {
+      "title": "Desktop Extensions: One-click MCP server installation for Claude Desktop",
+      "url": "https://www.anthropic.com/engineering/desktop-extensions",
+      "publishedAt": "2025-06-26T00:00:00.000Z"
+    },
+    {
+      "title": "How we built our multi-agent research system",
+      "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+      "publishedAt": "2025-06-13T00:00:00.000Z"
+    },
+    {
+      "title": "Claude Code: Best practices for agentic coding",
+      "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
+      "publishedAt": "2025-04-18T00:00:00.000Z"
+    },
+    {
+      "title": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
+      "url": "https://www.anthropic.com/engineering/claude-think-tool",
+      "publishedAt": "2025-03-20T00:00:00.000Z"
+    },
+    {
+      "title": "Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet",
+      "url": "https://www.anthropic.com/engineering/swe-bench-sonnet",
+      "publishedAt": "2025-01-06T00:00:00.000Z"
+    },
+    {
+      "title": "Building effective agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "publishedAt": "2024-12-19T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing Contextual Retrieval",
+      "url": "https://www.anthropic.com/engineering/contextual-retrieval",
+      "publishedAt": "2024-09-19T00:00:00.000Z"
+    }
+  ],
+  "claude-blog": [
+    {
+      "title": "Projects redesigned: from folder to conversation",
+      "url": "https://claude.com/blog/projects-redesigned",
+      "publishedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "url": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+      "publishedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "publishedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "title": "Building an AI-native revenue organization",
+      "url": "https://claude.com/blog/building-an-ai-native-revenue-organization",
+      "publishedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "title": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "publishedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "title": "Bringing Salesforce into Claude",
+      "url": "https://claude.com/blog/salesforce-in-claude",
+      "publishedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "title": "Claude for Financial Advisors",
+      "url": "https://claude.com/blog/claude-for-financial-advisors",
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "title": "Deploying AI from pilot to production",
+      "url": "https://claude.com/blog/deploying-ai-from-pilot-to-production",
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "title": "How healthcare organizations use Claude Tag",
+      "url": "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
+      "publishedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "title": "T. Rowe Price brings more of Claude to its investment process",
+      "url": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "title": "What 1,000 small business owners taught us about AI",
+      "url": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "title": "Reducing cost and improving performance with Claude Platform",
+      "url": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
+      "publishedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "title": "Building commerce agents with Claude",
+      "url": "https://claude.com/blog/claude-for-commerce-agents",
+      "publishedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "title": "A guide to the anatomy of effective commerce agents",
+      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+      "publishedAt": "2026-09-02T00:00:00.000Z"
+    }
+  ],
+  "openai-developers": [
+    {
+      "title": "Rethinking skills and prompts for GPT-6 Astra",
+      "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
+      "description": "Revisit skill descriptions, AGENTS.md, and task prompts to avoid bloated context.",
+      "publishedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "title": "Architectural visualization with Astra",
+      "url": "https://developers.openai.com/blog/architectural-visualization-with-astra",
+      "description": "How I used Astra to design a house, refine its everyday details, and explore it through Blender camera tours and an Unreal Engine 5 walkthrough.",
+      "publishedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "title": "Building games with Astra",
+      "url": "https://developers.openai.com/blog/how-to-build-games-with-astra",
+      "description": "How I built a procedural space exploration game in Codex, from concept art to planets you can land on.",
+      "publishedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "title": "Meet Rosalind Workbench: Empowering every scientist to be their own research team",
+      "url": "https://developers.openai.com/blog/rosalind-workbench",
+      "description": "How guided tasks, scientific viewers, and sequencing analysis help researchers follow a question from data to evidence.",
+      "publishedAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "title": "Automating repetitive work at OpenAI with Codex",
+      "url": "https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex",
+      "description": "How Runme and WebMCP turn recurring engineering tasks into reviewable, reusable workflows.",
+      "publishedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "title": "Meet the winners of OpenAI Build Week",
+      "url": "https://developers.openai.com/blog/build-week-winners",
+      "description": "From a short-staffed veterinary clinic to speech accessibility, spatial audio, and ancient machines, the winning projects started with problems their builders knew well.",
+      "publishedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "title": "Scaling cyber defenders with Daybreak",
+      "url": "https://developers.openai.com/blog/scaling-cyber-defenders-with-daybreak",
+      "description": "Use ChatGPT, Codex Security, and open-source tools to investigate threats, validate vulnerabilities, and move from findings to reviewed, verified fixes.",
+      "publishedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "title": "Codex as a platform: build on the open agent harness",
+      "url": "https://developers.openai.com/blog/codex-as-a-platform",
+      "description": "Build Codex into the products and workflows your users already know.",
+      "publishedAt": "2026-08-19T00:00:00.000Z"
+    },
+    {
+      "title": "Custom Code Review rules for Codex",
+      "url": "https://developers.openai.com/blog/custom-code-review-rules-for-codex",
+      "description": "Provide more detailed rules for Codex to spot issues and better adhere your conventions during code review.",
+      "publishedAt": "2026-07-20T00:00:00.000Z"
+    },
+    {
+      "title": "Making private MCP servers reachable without making them public",
+      "url": "https://developers.openai.com/blog/connect-private-mcp-servers-to-openai-products",
+      "description": "How we preserved private network boundaries while supporting MCP streaming, authentication, and an inspectable client.",
+      "publishedAt": "2026-06-26T00:00:00.000Z"
+    },
+    {
+      "title": "Mastering remote engineering work from your phone",
+      "url": "https://developers.openai.com/blog/mastering-codex-remote-for-engineering",
+      "description": "Use Remote in the ChatGPT mobile app to start, steer, review, and organize engineering work.",
+      "publishedAt": "2026-06-23T00:00:00.000Z"
+    },
+    {
+      "title": "How Perplexity Brought Voice Search to Millions Using the Realtime API",
+      "url": "https://developers.openai.com/blog/realtime-perplexity-computer",
+      "description": "Lessons from how Perplexity Computer's voice agent was built with the Realtime API.",
+      "publishedAt": "2026-03-25T00:00:00.000Z"
+    },
+    {
+      "title": "Designing delightful frontends with GPT-5.4",
+      "url": "https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4",
+      "description": "Practical techniques for steering GPT-5.4 toward polished, production-ready frontend designs.",
+      "publishedAt": "2026-03-20T00:00:00.000Z"
+    },
+    {
+      "title": "From prompts to products: One year of Responses",
+      "url": "https://developers.openai.com/blog/one-year-of-responses",
+      "description": "Five stories from developers building agentic products with the Responses API in its first year.",
+      "publishedAt": "2026-03-11T00:00:00.000Z"
+    },
+    {
+      "title": "Using skills to accelerate OSS maintenance",
+      "url": "https://developers.openai.com/blog/skills-agents-sdk",
+      "description": "Using skills and GitHub Actions to optimize Codex workflows in the OpenAI Agents SDK repos.",
+      "publishedAt": "2026-03-09T00:00:00.000Z"
+    },
+    {
+      "title": "Building frontend UIs with Codex and Figma",
+      "url": "https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma",
+      "description": "Use Codex and Figma to bring real, running interfaces into Figma, refine them, and bring changes back to Codex.",
+      "publishedAt": "2026-02-26T00:00:00.000Z"
+    },
+    {
+      "title": "Run long horizon tasks with Codex",
+      "url": "https://developers.openai.com/blog/run-long-horizon-tasks-with-codex",
+      "publishedAt": "2026-02-23T00:00:00.000Z"
+    },
+    {
+      "title": "Shell + Skills + Compaction: Tips for long-running agents that do real work",
+      "url": "https://developers.openai.com/blog/skills-shell-tips",
+      "description": "Practical patterns for building with skills, hosted shell, and server-side compaction in the Responses API.",
+      "publishedAt": "2026-02-11T00:00:00.000Z"
+    },
+    {
+      "title": "15 lessons learned building ChatGPT Apps",
+      "url": "https://developers.openai.com/blog/15-lessons-building-chatgpt-apps",
+      "description": "And how we incorporated them into a Codex Skill to help you build ChatGPT Apps 10x faster.",
+      "publishedAt": "2026-02-04T00:00:00.000Z"
+    },
+    {
+      "title": "Testing Agent Skills Systematically with Evals",
+      "url": "https://developers.openai.com/blog/eval-skills",
+      "description": "A practical guide to turning agent skills into something you can test, score, and improve over time.",
+      "publishedAt": "2026-01-22T00:00:00.000Z"
+    },
+    {
+      "title": "Supercharging Codex with JetBrains MCP at Skyscanner",
+      "url": "https://developers.openai.com/blog/skyscanner-codex-jetbrains-mcp",
+      "description": "How Skyscanner integrated Codex CLI with JetBrains IDEs to speed up debugging, testing, and development workflows.",
+      "publishedAt": "2026-01-11T00:00:00.000Z"
+    },
+    {
+      "title": "OpenAI for Developers in 2025",
+      "url": "https://developers.openai.com/blog/openai-for-developers-2025",
+      "description": "A year-end roundup of the biggest model, API, and platform shifts for building production-grade agents.",
+      "publishedAt": "2025-12-30T00:00:00.000Z"
+    },
+    {
+      "title": "Updates for developers building with voice",
+      "url": "https://developers.openai.com/blog/updates-audio-models",
+      "description": "New audio model snapshots and broader access to Custom Voices for production voice apps.",
+      "publishedAt": "2025-12-22T00:00:00.000Z"
+    },
+    {
+      "title": "What makes a great ChatGPT app",
+      "url": "https://developers.openai.com/blog/what-makes-a-great-chatgpt-app",
+      "description": "How to build capabilities that make conversations better.",
+      "publishedAt": "2025-11-24T00:00:00.000Z"
+    },
+    {
+      "title": "Using Codex for education at Dagster Labs",
+      "url": "https://developers.openai.com/blog/codex-for-documentation-dagster",
+      "description": "Learn how Dagster uses Codex in their open-source projects to accelerate documentation, translate content across mediums, and even measure how complete their docs are.",
+      "publishedAt": "2025-10-27T00:00:00.000Z"
+    },
+    {
+      "title": "How Codex ran OpenAI DevDay 2025",
+      "url": "https://developers.openai.com/blog/codex-at-devday",
+      "description": "Learn how Codex helped us build experiences, demos, products, and more",
+      "publishedAt": "2025-10-10T00:00:00.000Z"
+    },
+    {
+      "title": "Why we built the Responses API",
+      "url": "https://developers.openai.com/blog/responses-api",
+      "description": "How the Responses API unlocks persistent reasoning, hosted tools, and multimodal workflows for GPT-5.",
+      "publishedAt": "2025-09-22T00:00:00.000Z"
+    },
+    {
+      "title": "Developer notes on the Realtime API",
+      "url": "https://developers.openai.com/blog/realtime-api",
+      "description": "Details worth noticing in recent realtime speech-to-speech updates",
+      "publishedAt": "2025-09-12T00:00:00.000Z"
+    },
+    {
+      "title": "Hello, world!",
+      "url": "https://developers.openai.com/blog/intro",
+      "description": "Introducing our developer blog",
+      "publishedAt": "2025-09-11T00:00:00.000Z"
+    }
+  ]
+}
