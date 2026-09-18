@@ -2,12 +2,12 @@
 
 RSS feeds for AI engineering and developer blogs. GitHub Actions refreshes them every six hours. Each item links to the original article and includes its title, publication date, and a short description when the source provides one.
 
-| Source | Feed |
-| --- | --- |
-| Anthropic Engineering | [anthropic-engineering.xml](https://what1f.github.io/aiblog-feeds/feeds/anthropic-engineering.xml) |
-| Claude Blog | [claude-blog.xml](https://what1f.github.io/aiblog-feeds/feeds/claude-blog.xml) |
-| OpenAI Developer Blog | [openai-developers.xml](https://what1f.github.io/aiblog-feeds/feeds/openai-developers.xml) |
-| All sources | [all.xml](https://what1f.github.io/aiblog-feeds/feeds/all.xml) |
+| Source | Original site | Feed |
+| --- | --- | --- |
+| Anthropic Engineering | [anthropic.com/engineering](https://www.anthropic.com/engineering) | [anthropic-engineering.xml](https://what1f.github.io/aiblog-feeds/feeds/anthropic-engineering.xml) |
+| Claude Blog | [claude.com/blog](https://claude.com/blog) | [claude-blog.xml](https://what1f.github.io/aiblog-feeds/feeds/claude-blog.xml) |
+| OpenAI Developer Blog | [developers.openai.com/blog](https://developers.openai.com/blog) | [openai-developers.xml](https://what1f.github.io/aiblog-feeds/feeds/openai-developers.xml) |
+| All sources | — | [all.xml](https://what1f.github.io/aiblog-feeds/feeds/all.xml) |
 
 ## Add a source
 
