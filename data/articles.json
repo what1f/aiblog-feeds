@@ -129,6 +129,11 @@
   ],
   "claude-blog": [
     {
+      "title": "What a task costs on Opus 5.5",
+      "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "title": "Projects redesigned: from folder to conversation",
       "url": "https://claude.com/blog/projects-redesigned",
       "publishedAt": "2026-09-17T00:00:00.000Z"
