@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Bringing my LED display to life with GPT-Live-1 and Codex</title>
+      <link>https://developers.openai.com/blog/bringing-my-led-display-to-life</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/bringing-my-led-display-to-life</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <description>How I used Codex, GPT-Live-1, and a Raspberry Pi to turn an LED display into a voice-controlled assistant.</description>
+    </item>
+    <item>
       <title>Rethinking skills and prompts for GPT-6 Astra</title>
       <link>https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</guid>

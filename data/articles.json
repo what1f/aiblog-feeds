@@ -129,6 +129,11 @@
   ],
   "claude-blog": [
     {
+      "title": "How to prepare for AI-driven code modernization projects",
+      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
       "title": "What a task costs on Opus 5.5",
       "url": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
       "publishedAt": "2026-09-22T00:00:00.000Z"
@@ -210,6 +215,12 @@
     }
   ],
   "openai-developers": [
+    {
+      "title": "Bringing my LED display to life with GPT-Live-1 and Codex",
+      "url": "https://developers.openai.com/blog/bringing-my-led-display-to-life",
+      "description": "How I used Codex, GPT-Live-1, and a Raspberry Pi to turn an LED display into a voice-controlled assistant.",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
     {
       "title": "Rethinking skills and prompts for GPT-6 Astra",
       "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",
