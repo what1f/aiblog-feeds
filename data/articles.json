@@ -129,6 +129,16 @@
   ],
   "claude-blog": [
     {
+      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "url": "https://claude.com/blog/claude-marketplace",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
       "title": "How to prepare for AI-driven code modernization projects",
       "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
       "publishedAt": "2026-09-23T00:00:00.000Z"
