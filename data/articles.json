@@ -129,6 +129,31 @@
   ],
   "claude-blog": [
     {
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "publishedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "title": "Claude Tag now supports personal connectors in channels",
+      "url": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
+      "publishedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "url": "https://claude.com/blog/claude-marketplace",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "url": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "title": "How to prepare for AI-driven code modernization projects",
+      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
       "title": "Projects redesigned: from folder to conversation",
       "url": "https://claude.com/blog/projects-redesigned",
       "publishedAt": "2026-09-17T00:00:00.000Z"
@@ -204,7 +229,69 @@
       "publishedAt": "2026-09-02T00:00:00.000Z"
     }
   ],
+  "claude-dev": [
+    {
+      "title": "What a task costs on Opus 5.5",
+      "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "description": "The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill."
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "description": "Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely."
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "description": "How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code."
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "description": "We removed over 80% of Claude Code's system prompt for more advanced models. How to apply the lessons we learned to your own context engineering in Claude Code and with your own agents."
+    },
+    {
+      "title": "Lessons from building Claude Code: How we use skills",
+      "url": "https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/",
+      "publishedAt": "2026-06-03T00:00:00.000Z",
+      "description": "What we learned building and scaling hundreds of skills internally at Anthropic."
+    },
+    {
+      "title": "A harness for every task: dynamic workflows in Claude Code",
+      "url": "https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/",
+      "publishedAt": "2026-06-02T00:00:00.000Z",
+      "description": "Claude Code can now write and orchestrate its own multi-agent harness on the fly. Here's how dynamic workflows work, and the patterns that get the most out of them."
+    },
+    {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://claude.dev/blog/using-claude-code-the-unreasonable-effectiveness-of-html/",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
+      "description": "How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs."
+    },
+    {
+      "title": "Lessons from building Claude Code: Prompt caching is everything",
+      "url": "https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/",
+      "publishedAt": "2026-04-30T00:00:00.000Z",
+      "description": "Best practices for optimizing prompt caching in Claude Code, including how to most effectively structure your prompt, use tools, and layer on compaction."
+    },
+    {
+      "title": "Seeing like an agent: how we design tools in Claude Code",
+      "url": "https://claude.dev/blog/seeing-like-an-agent/",
+      "publishedAt": "2026-04-10T00:00:00.000Z",
+      "description": "Learn how the Claude Code team designs, tests, and evolves tools by thinking from the model's point of view."
+    }
+  ],
   "openai-developers": [
+    {
+      "title": "Bringing my LED display to life with GPT-Live-1 and Codex",
+      "url": "https://developers.openai.com/blog/bringing-my-led-display-to-life",
+      "description": "How I used Codex, GPT-Live-1, and a Raspberry Pi to turn an LED display into a voice-controlled assistant.",
+      "publishedAt": "2026-09-23T00:00:00.000Z"
+    },
     {
       "title": "Rethinking skills and prompts for GPT-6 Astra",
       "url": "https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra",

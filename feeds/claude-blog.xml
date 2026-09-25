@@ -6,6 +6,36 @@
     <description>Articles from the Claude blog.</description>
     <language>en</language>
     <item>
+      <title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+      <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Tag now supports personal connectors in channels</title>
+      <link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
+      <link>https://claude.com/blog/claude-marketplace</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-marketplace</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
+      <link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to prepare for AI-driven code modernization projects</title>
+      <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Projects redesigned: from folder to conversation</title>
       <link>https://claude.com/blog/projects-redesigned</link>
       <guid isPermaLink="true">https://claude.com/blog/projects-redesigned</guid>

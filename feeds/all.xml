@@ -6,6 +6,73 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>What a task costs on Opus 5.5</title>
+      <link>https://claude.dev/blog/what-a-task-costs-on-opus-5-5/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/what-a-task-costs-on-opus-5-5/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <description>The same token price can cost very different amounts per task. Learn what Claude Code tasks cost on Opus 5.5 and which settings change the bill.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
+      <title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+      <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Claude Tag now supports personal connectors in channels</title>
+      <link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
+      <link>https://claude.com/blog/claude-marketplace</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-marketplace</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace</title>
+      <link>https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>How to prepare for AI-driven code modernization projects</title>
+      <link>https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>How we made claude.ai 3x faster in two weeks</title>
+      <link>https://claude.dev/blog/how-we-made-claude-ai-faster/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/how-we-made-claude-ai-faster/</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Inside our performance sprint: the benchmarks Claude built, the loop each Slack thread ran, and the guardrails that let us ship 3,000 changes safely.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
+      <title>Bringing my LED display to life with GPT-Live-1 and Codex</title>
+      <link>https://developers.openai.com/blog/bringing-my-led-display-to-life</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/bringing-my-led-display-to-life</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <description>How I used Codex, GPT-Live-1, and a Raspberry Pi to turn an LED display into a voice-controlled assistant.</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Getting the most out of Opus 5.5 in Claude and Claude Code</title>
+      <link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <description>How to prompt Opus 5.5, steer a long run, and check your results in Claude apps and Claude Code.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>Projects redesigned: from folder to conversation</title>
       <link>https://claude.com/blog/projects-redesigned</link>
       <guid isPermaLink="true">https://claude.com/blog/projects-redesigned</guid>
@@ -175,6 +242,14 @@
       <category>OpenAI Developer Blog</category>
     </item>
     <item>
+      <title>The new rules of context engineering for Claude 5 generation models</title>
+      <link>https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+      <description>We removed over 80% of Claude Code&apos;s system prompt for more advanced models. How to apply the lessons we learned to your own context engineering in Claude Code and with your own agents.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>Custom Code Review rules for Codex</title>
       <link>https://developers.openai.com/blog/custom-code-review-rules-for-codex</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/custom-code-review-rules-for-codex</guid>
@@ -199,6 +274,22 @@
       <category>OpenAI Developer Blog</category>
     </item>
     <item>
+      <title>Lessons from building Claude Code: How we use skills</title>
+      <link>https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/lessons-from-building-claude-code-how-we-use-skills/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+      <description>What we learned building and scaling hundreds of skills internally at Anthropic.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
+      <title>A harness for every task: dynamic workflows in Claude Code</title>
+      <link>https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Claude Code can now write and orchestrate its own multi-agent harness on the fly. Here&apos;s how dynamic workflows work, and the patterns that get the most out of them.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>How we contain Claude across products</title>
       <link>https://www.anthropic.com/engineering/how-we-contain-claude</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/how-we-contain-claude</guid>
@@ -207,11 +298,35 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
+      <link>https://claude.dev/blog/using-claude-code-the-unreasonable-effectiveness-of-html/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/using-claude-code-the-unreasonable-effectiveness-of-html/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <description>How and why members of the Claude Code team use HTML instead of Markdown to produce richer, more readable, and easily shareable outputs.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
+      <title>Lessons from building Claude Code: Prompt caching is everything</title>
+      <link>https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Best practices for optimizing prompt caching in Claude Code, including how to most effectively structure your prompt, use tools, and layer on compaction.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>An update on recent Claude Code quality reports</title>
       <link>https://www.anthropic.com/engineering/april-23-postmortem</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/april-23-postmortem</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Seeing like an agent: how we design tools in Claude Code</title>
+      <link>https://claude.dev/blog/seeing-like-an-agent/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/seeing-like-an-agent/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Learn how the Claude Code team designs, tests, and evolves tools by thinking from the model&apos;s point of view.</description>
+      <category>claude.dev</category>
     </item>
     <item>
       <title>Scaling Managed Agents: Decoupling the brain from the hands</title>
