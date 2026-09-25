@@ -6,6 +6,13 @@
     <description>Technical writing for people building with Claude.</description>
     <language>en</language>
     <item>
+      <title>Using Claude Code: Spending your effort</title>
+      <link>https://claude.dev/blog/spending-your-effort/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/spending-your-effort/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <description>What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1.</description>
+    </item>
+    <item>
       <title>What a task costs on Opus 5.5</title>
       <link>https://claude.dev/blog/what-a-task-costs-on-opus-5-5/</link>
       <guid isPermaLink="true">https://claude.dev/blog/what-a-task-costs-on-opus-5-5/</guid>

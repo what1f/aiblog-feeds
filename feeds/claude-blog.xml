@@ -6,6 +6,12 @@
     <description>Articles from the Claude blog.</description>
     <language>en</language>
     <item>
+      <title>Build plugins for Claude</title>
+      <link>https://claude.com/blog/build-plugins-for-claude</link>
+      <guid isPermaLink="true">https://claude.com/blog/build-plugins-for-claude</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
       <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>

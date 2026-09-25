@@ -129,6 +129,11 @@
   ],
   "claude-blog": [
     {
+      "title": "Build plugins for Claude",
+      "url": "https://claude.com/blog/build-plugins-for-claude",
+      "publishedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
       "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
       "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
       "publishedAt": "2026-09-24T00:00:00.000Z"
@@ -230,6 +235,12 @@
     }
   ],
   "claude-dev": [
+    {
+      "title": "Using Claude Code: Spending your effort",
+      "url": "https://claude.dev/blog/spending-your-effort/",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "description": "What effort really is and when to use which level in Claude Code, from my own tests of three builds and a deep dive into Terminal-Bench 3.0 on Opus 5.5 and Fable 5.1."
+    },
     {
       "title": "What a task costs on Opus 5.5",
       "url": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
