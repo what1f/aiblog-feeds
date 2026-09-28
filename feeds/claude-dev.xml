@@ -6,6 +6,20 @@
     <description>Technical writing for people building with Claude.</description>
     <language>en</language>
     <item>
+      <title>Automating eval design and hillclimbing with Claude</title>
+      <link>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/automating-eval-design-and-hillclimbing/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Principles for designing evals and hillclimbing against them without fooling yourself, and how the claude-api skill&apos;s build-eval and hillclimb commands put them to work.</description>
+    </item>
+    <item>
+      <title>Building with Claude Sonnet 5.5</title>
+      <link>https://claude.dev/blog/building-with-claude-sonnet-5-5/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/building-with-claude-sonnet-5-5/</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <description>When to choose Sonnet over Opus, what it costs, and how to tune it.</description>
+    </item>
+    <item>
       <title>Using Claude Code: Spending your effort</title>
       <link>https://claude.dev/blog/spending-your-effort/</link>
       <guid isPermaLink="true">https://claude.dev/blog/spending-your-effort/</guid>
