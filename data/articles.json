@@ -129,6 +129,11 @@
   ],
   "claude-blog": [
     {
+      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "url": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "publishedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
       "title": "Giving companies more control over their AI agents, with NVIDIA",
       "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
       "publishedAt": "2026-09-28T00:00:00.000Z"
