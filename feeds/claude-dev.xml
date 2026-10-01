@@ -6,6 +6,13 @@
     <description>Technical writing for people building with Claude.</description>
     <language>en</language>
     <item>
+      <title>Getting started with Claude Code mods</title>
+      <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/getting-started-with-claude-code-mods/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Mods are hooks that ship inside plugins and run inside your Claude Code session. Build one from an empty folder, then tour two larger mods.</description>
+    </item>
+    <item>
       <title>Automating eval design and hillclimbing with Claude</title>
       <link>https://claude.dev/blog/automating-eval-design-and-hillclimbing/</link>
       <guid isPermaLink="true">https://claude.dev/blog/automating-eval-design-and-hillclimbing/</guid>

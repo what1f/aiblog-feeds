@@ -6,6 +6,21 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Customize Claude Code with mods</title>
+      <link>https://claude.com/blog/claude-code-mods</link>
+      <guid isPermaLink="true">https://claude.com/blog/claude-code-mods</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Getting started with Claude Code mods</title>
+      <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/getting-started-with-claude-code-mods/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Mods are hooks that ship inside plugins and run inside your Claude Code session. Build one from an empty folder, then tour two larger mods.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>Claude for Government is now generally available</title>
       <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-government-is-now-generally-available</guid>

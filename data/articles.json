@@ -129,6 +129,11 @@
   ],
   "claude-blog": [
     {
+      "title": "Customize Claude Code with mods",
+      "url": "https://claude.com/blog/claude-code-mods",
+      "publishedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
       "title": "Claude for Government is now generally available",
       "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
       "publishedAt": "2026-09-30T00:00:00.000Z"
@@ -255,6 +260,12 @@
     }
   ],
   "claude-dev": [
+    {
+      "title": "Getting started with Claude Code mods",
+      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "description": "Mods are hooks that ship inside plugins and run inside your Claude Code session. Build one from an empty folder, then tour two larger mods."
+    },
     {
       "title": "Automating eval design and hillclimbing with Claude",
       "url": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
