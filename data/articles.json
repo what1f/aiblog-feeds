@@ -129,6 +129,11 @@
   ],
   "claude-blog": [
     {
+      "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
+      "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+      "publishedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
       "title": "Customize Claude Code with mods",
       "url": "https://claude.com/blog/claude-code-mods",
       "publishedAt": "2026-10-01T00:00:00.000Z"

@@ -6,6 +6,13 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
+      <link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
+      <guid isPermaLink="true">https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
       <title>Customize Claude Code with mods</title>
       <link>https://claude.com/blog/claude-code-mods</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-code-mods</guid>
