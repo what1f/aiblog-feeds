@@ -12,7 +12,7 @@ RSS feeds for AI engineering and developer blogs. GitHub Actions refreshes them 
 
 ## Add a source
 
-Create a `Source` adapter in `src/sources/` and export it from `src/sources/index.ts`. The adapter discovers article titles, canonical URLs, dates, and optional descriptions. The generator handles deduplication, retained history, XML output, and the combined feed. If one adapter fails, the run stops before changing any feed.
+Create a `Source` adapter in `src/sources/` and export it from `src/sources/index.ts`. The adapter discovers article titles, canonical URLs, dates, and optional descriptions. The generator handles deduplication, retained history, XML output, and the combined feed. If one adapter fails, its previous articles are retained and the other feeds still update. GitHub Actions reports a warning for each failed source.
 
 ## Run locally
 

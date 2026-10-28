@@ -6,6 +6,27 @@
     <description>Technical writing for people building with Claude.</description>
     <language>en</language>
     <item>
+      <title>How the Claude Code team does code review</title>
+      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/solving-code-review-at-anthropic/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <description>How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&apos;t raise reverts or incidents.</description>
+    </item>
+    <item>
+      <title>Building effective agent automations</title>
+      <link>https://claude.dev/blog/building-effective-agent-automations/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/building-effective-agent-automations/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A reference implementation walkthrough with common failure modes</description>
+    </item>
+    <item>
+      <title>Claude Code in the cloud: a field guide to cloud sessions</title>
+      <link>https://claude.dev/blog/claude-code-in-the-cloud/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/claude-code-in-the-cloud/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Cloud sessions run Claude Code on a fresh VM for each task. Four real sessions, seven workflows that suit them, and how to connect GitHub without getting stuck.</description>
+    </item>
+    <item>
       <title>Getting started with Claude Code mods</title>
       <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
       <guid isPermaLink="true">https://claude.dev/blog/getting-started-with-claude-code-mods/</guid>

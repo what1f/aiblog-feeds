@@ -6,6 +6,20 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Designing failover across OpenAI model providers</title>
+      <link>https://developers.openai.com/blog/designing-failover-across-openai-model-providers</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/designing-failover-across-openai-model-providers</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Why direct OpenAI access matters for previews and critical workloads.</description>
+    </item>
+    <item>
+      <title>Maintaining software with the GPT-6 family</title>
+      <link>https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <description>How OpenAI’s Core Experimentation team uses Codex to remove unused code, clean up stale experiments, and improve CI.</description>
+    </item>
+    <item>
       <title>Bringing my LED display to life with GPT-Live-1 and Codex</title>
       <link>https://developers.openai.com/blog/bringing-my-led-display-to-life</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/bringing-my-led-display-to-life</guid>

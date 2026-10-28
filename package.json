@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc --noEmit",
-    "generate": "tsx src/generate.ts"
+    "generate": "tsx src/generate.ts",
+    "test": "tsx --test tests/*.test.ts"
   },
   "dependencies": {
     "cheerio": "^1.0.0"

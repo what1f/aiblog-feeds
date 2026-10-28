@@ -38,11 +38,17 @@ async function main(): Promise<void> {
   const previous = await readPrevious();
   const next: Record<string, Article[]> = {};
 
-  // Complete discovery before writing: a failed source must not publish an empty feed.
+  // Preserve the last successful feed when an individual source fails.
   for (const source of sources) {
-    const discovered = await source.discover(previous[source.id] ?? []);
-    next[source.id] = merge(discovered, previous[source.id] ?? []);
-    console.log(`${source.title}: ${discovered.length} found, ${next[source.id].length} retained`);
+    try {
+      const discovered = await source.discover(previous[source.id] ?? []);
+      next[source.id] = merge(discovered, previous[source.id] ?? []);
+      console.log(`${source.title}: ${discovered.length} found, ${next[source.id].length} retained`);
+    } catch (error) {
+      next[source.id] = previous[source.id] ?? [];
+      console.warn(`${source.title}: update failed; retained ${next[source.id].length} articles`, error);
+      if (process.env.GITHUB_ACTIONS) console.warn(`::warning::${source.title}: update failed; previous articles retained`);
+    }
   }
 
   const feeds = new Map<string, string>();

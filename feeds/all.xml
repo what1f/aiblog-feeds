@@ -6,6 +6,123 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>IDC brings Quanta into Claude and adopts Claude across the company</title>
+      <link>https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Introducing artifacts for legal work</title>
+      <link>https://claude.com/resources/articles/introducing-artifacts-for-legal-work</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/introducing-artifacts-for-legal-work</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Smart reports, surveys, and pooled group budgets for Claude Enterprise</title>
+      <link>https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Claude for Financial Advisors</title>
+      <link>https://claude.com/resources/articles/claude-for-financial-advisors</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/claude-for-financial-advisors</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Manage costs and demonstrate ROI for Claude Code on Google Cloud</title>
+      <link>https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Expanding Claude for Nonprofits</title>
+      <link>https://claude.com/resources/articles/expanding-claude-for-nonprofits</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/expanding-claude-for-nonprofits</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Claude Duet Safety, Privacy, and Security</title>
+      <link>https://claude.com/resources/articles/claude-duet-safety-privacy-and-security</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/claude-duet-safety-privacy-and-security</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Claude Cowork and chat come together for Enterprise</title>
+      <link>https://claude.com/resources/articles/unified-claude-enterprise</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/unified-claude-enterprise</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Building agents: When to fold subagents into your main agent loop</title>
+      <link>https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>The full Claude Platform, available on Google Cloud</title>
+      <link>https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>How the Claude Code team does code review</title>
+      <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/solving-code-review-at-anthropic/</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <description>How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn&apos;t raise reverts or incidents.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
+      <title>Designing failover across OpenAI model providers</title>
+      <link>https://developers.openai.com/blog/designing-failover-across-openai-model-providers</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/designing-failover-across-openai-model-providers</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Why direct OpenAI access matters for previews and critical workloads.</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Maintaining software with the GPT-6 family</title>
+      <link>https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <description>How OpenAI’s Core Experimentation team uses Codex to remove unused code, clean up stale experiments, and improve CI.</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Redesigning source control at Anthropic</title>
+      <link>https://www.anthropic.com/research/redesigning-source-control</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/redesigning-source-control</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Building effective agent automations</title>
+      <link>https://claude.dev/blog/building-effective-agent-automations/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/building-effective-agent-automations/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A reference implementation walkthrough with common failure modes</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
+      <title>Claude Code in the cloud: a field guide to cloud sessions</title>
+      <link>https://claude.dev/blog/claude-code-in-the-cloud/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/claude-code-in-the-cloud/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Cloud sessions run Claude Code on a fresh VM for each task. Four real sessions, seven workflows that suit them, and how to connect GitHub without getting stuck.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
       <link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
       <guid isPermaLink="true">https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</guid>
@@ -379,6 +496,13 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>How we contain Claude across products</title>
+      <link>https://www.anthropic.com/research/how-we-contain-claude</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/how-we-contain-claude</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
       <link>https://claude.dev/blog/using-claude-code-the-unreasonable-effectiveness-of-html/</link>
       <guid isPermaLink="true">https://claude.dev/blog/using-claude-code-the-unreasonable-effectiveness-of-html/</guid>
@@ -402,6 +526,13 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>An update on recent Claude Code quality reports</title>
+      <link>https://www.anthropic.com/research/april-23-postmortem</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/april-23-postmortem</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Seeing like an agent: how we design tools in Claude Code</title>
       <link>https://claude.dev/blog/seeing-like-an-agent/</link>
       <guid isPermaLink="true">https://claude.dev/blog/seeing-like-an-agent/</guid>
@@ -413,6 +544,13 @@
       <title>Scaling Managed Agents: Decoupling the brain from the hands</title>
       <link>https://www.anthropic.com/engineering/managed-agents</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/managed-agents</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Scaling Managed Agents: Decoupling the brain from the hands</title>
+      <link>https://www.anthropic.com/research/managed-agents</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/managed-agents</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -432,9 +570,23 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>How we built Claude Code auto mode: a safer way to skip permissions</title>
+      <link>https://www.anthropic.com/research/claude-code-auto-mode</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/claude-code-auto-mode</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Harness design for long-running application development</title>
       <link>https://www.anthropic.com/engineering/harness-design-long-running-apps</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/harness-design-long-running-apps</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Harness design for long-running application development</title>
+      <link>https://www.anthropic.com/research/harness-design-long-running-apps</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/harness-design-long-running-apps</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -466,6 +618,13 @@
       <title>Eval awareness in Claude Opus 4.6’s BrowseComp performance</title>
       <link>https://www.anthropic.com/engineering/eval-awareness-browsecomp</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/eval-awareness-browsecomp</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Eval awareness in Claude Opus 4.6’s BrowseComp performance</title>
+      <link>https://www.anthropic.com/research/eval-awareness-browsecomp</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/eval-awareness-browsecomp</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -507,6 +666,20 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Building a C compiler with a team of parallel Claudes</title>
+      <link>https://www.anthropic.com/research/building-c-compiler</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/building-c-compiler</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Quantifying infrastructure noise in agentic coding evals</title>
+      <link>https://www.anthropic.com/research/infrastructure-noise</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/infrastructure-noise</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>15 lessons learned building ChatGPT Apps</title>
       <link>https://developers.openai.com/blog/15-lessons-building-chatgpt-apps</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/15-lessons-building-chatgpt-apps</guid>
@@ -530,6 +703,13 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Designing AI-resistant technical evaluations</title>
+      <link>https://www.anthropic.com/research/AI-resistant-technical-evaluations</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/AI-resistant-technical-evaluations</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Supercharging Codex with JetBrains MCP at Skyscanner</title>
       <link>https://developers.openai.com/blog/skyscanner-codex-jetbrains-mcp</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/skyscanner-codex-jetbrains-mcp</guid>
@@ -541,6 +721,13 @@
       <title>Demystifying evals for AI agents</title>
       <link>https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Demystifying evals for AI agents</title>
+      <link>https://www.anthropic.com/research/demystifying-evals-for-ai-agents</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/demystifying-evals-for-ai-agents</guid>
       <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -568,6 +755,13 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Effective harnesses for long-running agents</title>
+      <link>https://www.anthropic.com/research/effective-harnesses-for-long-running-agents</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/effective-harnesses-for-long-running-agents</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>What makes a great ChatGPT app</title>
       <link>https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/what-makes-a-great-chatgpt-app</guid>
@@ -583,9 +777,23 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Introducing advanced tool use on the Claude Developer Platform</title>
+      <link>https://www.anthropic.com/research/advanced-tool-use</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/advanced-tool-use</guid>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Code execution with MCP: Building more efficient agents</title>
       <link>https://www.anthropic.com/engineering/code-execution-with-mcp</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/code-execution-with-mcp</guid>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Code execution with MCP: Building more efficient agents</title>
+      <link>https://www.anthropic.com/research/code-execution-with-mcp</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/code-execution-with-mcp</guid>
       <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -605,9 +813,23 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Beyond permission prompts: making Claude Code more secure and autonomous</title>
+      <link>https://www.anthropic.com/research/claude-code-sandboxing</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/claude-code-sandboxing</guid>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Equipping agents for the real world with Agent Skills</title>
       <link>https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Equipping agents for the real world with Agent Skills</title>
+      <link>https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills</guid>
       <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -627,6 +849,13 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Effective context engineering for AI agents</title>
+      <link>https://www.anthropic.com/research/effective-context-engineering-for-ai-agents</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/effective-context-engineering-for-ai-agents</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Why we built the Responses API</title>
       <link>https://developers.openai.com/blog/responses-api</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/responses-api</guid>
@@ -638,6 +867,13 @@
       <title>A postmortem of three recent issues</title>
       <link>https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</guid>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>A postmortem of three recent issues</title>
+      <link>https://www.anthropic.com/research/a-postmortem-of-three-recent-issues</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/a-postmortem-of-three-recent-issues</guid>
       <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -665,6 +901,13 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Writing effective tools for agents — with agents</title>
+      <link>https://www.anthropic.com/research/writing-tools-for-agents</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/writing-tools-for-agents</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>Desktop Extensions: One-click MCP server installation for Claude Desktop</title>
       <link>https://www.anthropic.com/engineering/desktop-extensions</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/desktop-extensions</guid>
@@ -672,9 +915,30 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Desktop Extensions: One-click MCP server installation for Claude Desktop</title>
+      <link>https://www.anthropic.com/research/desktop-extensions</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/desktop-extensions</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Confidential Inference via Trusted Virtual Machines</title>
+      <link>https://www.anthropic.com/research/confidential-inference-trusted-vms</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/confidential-inference-trusted-vms</guid>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>How we built our multi-agent research system</title>
       <link>https://www.anthropic.com/engineering/multi-agent-research-system</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/multi-agent-research-system</guid>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>How we built our multi-agent research system</title>
+      <link>https://www.anthropic.com/research/multi-agent-research-system</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/multi-agent-research-system</guid>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
@@ -686,9 +950,23 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Claude Code: Best practices for agentic coding</title>
+      <link>https://www.anthropic.com/research/claude-code-best-practices</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/claude-code-best-practices</guid>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>The &quot;think&quot; tool: Enabling Claude to stop and think in complex tool use situations</title>
       <link>https://www.anthropic.com/engineering/claude-think-tool</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/claude-think-tool</guid>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>The &quot;think&quot; tool: Enabling Claude to stop and think in complex tool use situations</title>
+      <link>https://www.anthropic.com/research/claude-think-tool</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/claude-think-tool</guid>
       <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>

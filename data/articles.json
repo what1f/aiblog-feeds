@@ -1,14 +1,29 @@
 {
   "anthropic-engineering": [
     {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/research/redesigning-source-control",
+      "publishedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
       "title": "How we contain Claude across products",
       "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
       "publishedAt": "2026-05-25T00:00:00.000Z",
       "description": "As agents grow more capable, so does their potential blast radius. The engineering question is how to cap it. Here’s what we’ve learned building containment for claude.ai, Claude Code, and Cowork."
     },
     {
+      "title": "How we contain Claude across products",
+      "url": "https://www.anthropic.com/research/how-we-contain-claude",
+      "publishedAt": "2026-05-25T00:00:00.000Z"
+    },
+    {
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": "2026-04-23T00:00:00.000Z"
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/research/april-23-postmortem",
       "publishedAt": "2026-04-23T00:00:00.000Z"
     },
     {
@@ -17,8 +32,18 @@
       "publishedAt": "2026-04-08T00:00:00.000Z"
     },
     {
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/research/managed-agents",
+      "publishedAt": "2026-04-08T00:00:00.000Z"
+    },
+    {
       "title": "How we built Claude Code auto mode: a safer way to skip permissions",
       "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "publishedAt": "2026-03-25T00:00:00.000Z"
+    },
+    {
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "url": "https://www.anthropic.com/research/claude-code-auto-mode",
       "publishedAt": "2026-03-25T00:00:00.000Z"
     },
     {
@@ -27,8 +52,18 @@
       "publishedAt": "2026-03-24T00:00:00.000Z"
     },
     {
+      "title": "Harness design for long-running application development",
+      "url": "https://www.anthropic.com/research/harness-design-long-running-apps",
+      "publishedAt": "2026-03-24T00:00:00.000Z"
+    },
+    {
       "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
       "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+      "publishedAt": "2026-03-06T00:00:00.000Z"
+    },
+    {
+      "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
+      "url": "https://www.anthropic.com/research/eval-awareness-browsecomp",
       "publishedAt": "2026-03-06T00:00:00.000Z"
     },
     {
@@ -42,8 +77,23 @@
       "publishedAt": "2026-02-05T00:00:00.000Z"
     },
     {
+      "title": "Building a C compiler with a team of parallel Claudes",
+      "url": "https://www.anthropic.com/research/building-c-compiler",
+      "publishedAt": "2026-02-05T00:00:00.000Z"
+    },
+    {
+      "title": "Quantifying infrastructure noise in agentic coding evals",
+      "url": "https://www.anthropic.com/research/infrastructure-noise",
+      "publishedAt": "2026-02-05T00:00:00.000Z"
+    },
+    {
       "title": "Designing AI-resistant technical evaluations",
       "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
+      "publishedAt": "2026-01-21T00:00:00.000Z"
+    },
+    {
+      "title": "Designing AI-resistant technical evaluations",
+      "url": "https://www.anthropic.com/research/AI-resistant-technical-evaluations",
       "publishedAt": "2026-01-21T00:00:00.000Z"
     },
     {
@@ -52,8 +102,18 @@
       "publishedAt": "2026-01-09T00:00:00.000Z"
     },
     {
+      "title": "Demystifying evals for AI agents",
+      "url": "https://www.anthropic.com/research/demystifying-evals-for-ai-agents",
+      "publishedAt": "2026-01-09T00:00:00.000Z"
+    },
+    {
       "title": "Effective harnesses for long-running agents",
       "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "publishedAt": "2025-11-26T00:00:00.000Z"
+    },
+    {
+      "title": "Effective harnesses for long-running agents",
+      "url": "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents",
       "publishedAt": "2025-11-26T00:00:00.000Z"
     },
     {
@@ -62,8 +122,18 @@
       "publishedAt": "2025-11-24T00:00:00.000Z"
     },
     {
+      "title": "Introducing advanced tool use on the Claude Developer Platform",
+      "url": "https://www.anthropic.com/research/advanced-tool-use",
+      "publishedAt": "2025-11-24T00:00:00.000Z"
+    },
+    {
       "title": "Code execution with MCP: Building more efficient agents",
       "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "publishedAt": "2025-11-04T00:00:00.000Z"
+    },
+    {
+      "title": "Code execution with MCP: Building more efficient agents",
+      "url": "https://www.anthropic.com/research/code-execution-with-mcp",
       "publishedAt": "2025-11-04T00:00:00.000Z"
     },
     {
@@ -72,8 +142,18 @@
       "publishedAt": "2025-10-20T00:00:00.000Z"
     },
     {
+      "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
+      "url": "https://www.anthropic.com/research/claude-code-sandboxing",
+      "publishedAt": "2025-10-20T00:00:00.000Z"
+    },
+    {
       "title": "Equipping agents for the real world with Agent Skills",
       "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "publishedAt": "2025-10-16T00:00:00.000Z"
+    },
+    {
+      "title": "Equipping agents for the real world with Agent Skills",
+      "url": "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills",
       "publishedAt": "2025-10-16T00:00:00.000Z"
     },
     {
@@ -82,8 +162,18 @@
       "publishedAt": "2025-09-29T00:00:00.000Z"
     },
     {
+      "title": "Effective context engineering for AI agents",
+      "url": "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents",
+      "publishedAt": "2025-09-29T00:00:00.000Z"
+    },
+    {
       "title": "A postmortem of three recent issues",
       "url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
+      "publishedAt": "2025-09-17T00:00:00.000Z"
+    },
+    {
+      "title": "A postmortem of three recent issues",
+      "url": "https://www.anthropic.com/research/a-postmortem-of-three-recent-issues",
       "publishedAt": "2025-09-17T00:00:00.000Z"
     },
     {
@@ -92,13 +182,33 @@
       "publishedAt": "2025-09-11T00:00:00.000Z"
     },
     {
+      "title": "Writing effective tools for agents — with agents",
+      "url": "https://www.anthropic.com/research/writing-tools-for-agents",
+      "publishedAt": "2025-09-11T00:00:00.000Z"
+    },
+    {
       "title": "Desktop Extensions: One-click MCP server installation for Claude Desktop",
       "url": "https://www.anthropic.com/engineering/desktop-extensions",
       "publishedAt": "2025-06-26T00:00:00.000Z"
     },
     {
+      "title": "Desktop Extensions: One-click MCP server installation for Claude Desktop",
+      "url": "https://www.anthropic.com/research/desktop-extensions",
+      "publishedAt": "2025-06-26T00:00:00.000Z"
+    },
+    {
+      "title": "Confidential Inference via Trusted Virtual Machines",
+      "url": "https://www.anthropic.com/research/confidential-inference-trusted-vms",
+      "publishedAt": "2025-06-18T00:00:00.000Z"
+    },
+    {
       "title": "How we built our multi-agent research system",
       "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
+      "publishedAt": "2025-06-13T00:00:00.000Z"
+    },
+    {
+      "title": "How we built our multi-agent research system",
+      "url": "https://www.anthropic.com/research/multi-agent-research-system",
       "publishedAt": "2025-06-13T00:00:00.000Z"
     },
     {
@@ -107,8 +217,18 @@
       "publishedAt": "2025-04-18T00:00:00.000Z"
     },
     {
+      "title": "Claude Code: Best practices for agentic coding",
+      "url": "https://www.anthropic.com/research/claude-code-best-practices",
+      "publishedAt": "2025-04-18T00:00:00.000Z"
+    },
+    {
       "title": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
       "url": "https://www.anthropic.com/engineering/claude-think-tool",
+      "publishedAt": "2025-03-20T00:00:00.000Z"
+    },
+    {
+      "title": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
+      "url": "https://www.anthropic.com/research/claude-think-tool",
       "publishedAt": "2025-03-20T00:00:00.000Z"
     },
     {
@@ -128,6 +248,56 @@
     }
   ],
   "claude-blog": [
+    {
+      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+      "url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+      "publishedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing artifacts for legal work",
+      "url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+      "publishedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "url": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+      "publishedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "title": "Claude for Financial Advisors",
+      "url": "https://claude.com/resources/articles/claude-for-financial-advisors",
+      "publishedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "url": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+      "publishedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "title": "Expanding Claude for Nonprofits",
+      "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+      "publishedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "title": "Claude Duet Safety, Privacy, and Security",
+      "url": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
+      "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "url": "https://claude.com/resources/articles/unified-claude-enterprise",
+      "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "publishedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "title": "The full Claude Platform, available on Google Cloud",
+      "url": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+      "publishedAt": "2026-10-22T00:00:00.000Z"
+    },
     {
       "title": "How Cresta turned CX expertise into an agent builder on the Claude Agent SDK",
       "url": "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
@@ -266,6 +436,24 @@
   ],
   "claude-dev": [
     {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "description": "How do you review code at the volume agents produce it? On the Claude Code team, once we had high coverage and deep reviews, we started optimizing for the minimum amount of human review time that doesn't raise reverts or incidents."
+    },
+    {
+      "title": "Building effective agent automations",
+      "url": "https://claude.dev/blog/building-effective-agent-automations/",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "description": "A reference implementation walkthrough with common failure modes"
+    },
+    {
+      "title": "Claude Code in the cloud: a field guide to cloud sessions",
+      "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "description": "Cloud sessions run Claude Code on a fresh VM for each task. Four real sessions, seven workflows that suit them, and how to connect GitHub without getting stuck."
+    },
+    {
       "title": "Getting started with Claude Code mods",
       "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
       "publishedAt": "2026-10-01T00:00:00.000Z",
@@ -345,6 +533,18 @@
     }
   ],
   "openai-developers": [
+    {
+      "title": "Designing failover across OpenAI model providers",
+      "url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",
+      "description": "Why direct OpenAI access matters for previews and critical workloads.",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "title": "Maintaining software with the GPT-6 family",
+      "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+      "description": "How OpenAI’s Core Experimentation team uses Codex to remove unused code, clean up stale experiments, and improve CI.",
+      "publishedAt": "2026-10-14T00:00:00.000Z"
+    },
     {
       "title": "Bringing my LED display to life with GPT-Live-1 and Codex",
       "url": "https://developers.openai.com/blog/bringing-my-led-display-to-life",
