@@ -249,6 +249,11 @@
   ],
   "claude-blog": [
     {
+      "title": "Make long-running agents faster with message threads",
+      "url": "https://claude.com/resources/articles/message-threads",
+      "publishedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "title": "IDC brings Quanta into Claude and adopts Claude across the company",
       "url": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
       "publishedAt": "2026-10-28T00:00:00.000Z"

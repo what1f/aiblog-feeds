@@ -6,6 +6,12 @@
     <description>Articles from the Claude blog.</description>
     <language>en</language>
     <item>
+      <title>Make long-running agents faster with message threads</title>
+      <link>https://claude.com/resources/articles/message-threads</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/message-threads</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>IDC brings Quanta into Claude and adopts Claude across the company</title>
       <link>https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</guid>
