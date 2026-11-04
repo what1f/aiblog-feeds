@@ -6,6 +6,12 @@
     <description>Articles from the Claude blog.</description>
     <language>en</language>
     <item>
+      <title>New agents and products for security, productivity, and creative work on Claude Marketplace</title>
+      <link>https://claude.com/resources/articles/new-agents-and-products-claude-marketplace</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/new-agents-and-products-claude-marketplace</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Make long-running agents faster with message threads</title>
       <link>https://claude.com/resources/articles/message-threads</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/message-threads</guid>
