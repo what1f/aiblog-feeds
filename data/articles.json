@@ -249,6 +249,16 @@
   ],
   "claude-blog": [
     {
+      "title": "More visibility and control over Claude Enterprise for security teams",
+      "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+      "publishedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing Personal Finance in Claude",
+      "url": "https://claude.com/resources/articles/introducing-personal-finance-in-claude",
+      "publishedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
       "title": "New agents and products for security, productivity, and creative work on Claude Marketplace",
       "url": "https://claude.com/resources/articles/new-agents-and-products-claude-marketplace",
       "publishedAt": "2026-11-04T00:00:00.000Z"
