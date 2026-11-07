@@ -6,6 +6,13 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>The components of agent memory</title>
+      <link>https://www.anthropic.com/research/components-of-agent-memory</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/components-of-agent-memory</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Anthropic Engineering</category>
+    </item>
+    <item>
       <title>More visibility and control over Claude Enterprise for security teams</title>
       <link>https://claude.com/resources/articles/claude-enterprise-security-updates</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/claude-enterprise-security-updates</guid>

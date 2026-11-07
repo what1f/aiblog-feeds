@@ -1,6 +1,11 @@
 {
   "anthropic-engineering": [
     {
+      "title": "The components of agent memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "publishedAt": "2026-11-06T00:00:00.000Z"
+    },
+    {
       "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/research/redesigning-source-control",
       "publishedAt": "2026-10-13T00:00:00.000Z"
