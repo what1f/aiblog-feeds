@@ -461,6 +461,18 @@
   ],
   "claude-dev": [
     {
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
+      "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "description": "How a team of 1,000 agents running an early version of Claude Fable 5.2 reproduced a formal proof of Fermat's Last Theorem with general tools, a shared database, and layered safety controls."
+    },
+    {
+      "title": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku",
+      "url": "https://claude.dev/blog/which-claude-model-should-you-build-with/",
+      "publishedAt": "2026-11-09T00:00:00.000Z",
+      "description": "Which Claude model to pick, what they cost, and how to use them together."
+    },
+    {
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "publishedAt": "2026-10-15T00:00:00.000Z",
@@ -558,6 +570,12 @@
     }
   ],
   "openai-developers": [
+    {
+      "title": "Build a retro handheld game with Codex and ModRetro Chromatic",
+      "url": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
+      "description": "Using the ModRetro Chromatic plugin for Codex, you can build any game you can imagine and play it on a ModRetro Chromatic.",
+      "publishedAt": "2026-11-09T00:00:00.000Z"
+    },
     {
       "title": "Designing failover across OpenAI model providers",
       "url": "https://developers.openai.com/blog/designing-failover-across-openai-model-providers",

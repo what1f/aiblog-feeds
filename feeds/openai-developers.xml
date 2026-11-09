@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Build a retro handheld game with Codex and ModRetro Chromatic</title>
+      <link>https://developers.openai.com/blog/build-a-game-with-modretro-chromatic</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/build-a-game-with-modretro-chromatic</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Using the ModRetro Chromatic plugin for Codex, you can build any game you can imagine and play it on a ModRetro Chromatic.</description>
+    </item>
+    <item>
       <title>Designing failover across OpenAI model providers</title>
       <link>https://developers.openai.com/blog/designing-failover-across-openai-model-providers</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/designing-failover-across-openai-model-providers</guid>
