@@ -6,7 +6,14 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
-      <title>Build a retro handheld game with Codex and ModRetro Chromatic</title>
+      <title>Pushing voice agents further: inside four GPT-Live builds</title>
+      <link>https://developers.openai.com/blog/pushing-voice-agents-further</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/pushing-voice-agents-further</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <description>A startup showcase on how teams delegate work, prompt for voice, and evaluate what happens in real conversations.</description>
+    </item>
+    <item>
+      <title>Building a retro handheld game with Codex and ModRetro Chromatic</title>
       <link>https://developers.openai.com/blog/build-a-game-with-modretro-chromatic</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/build-a-game-with-modretro-chromatic</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>

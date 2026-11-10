@@ -254,6 +254,26 @@
   ],
   "claude-blog": [
     {
+      "title": "How Curative is building a national provider network with agents on Claude",
+      "url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "title": "Your apps can now open in Claude, and Claude can work in them",
+      "url": "https://claude.com/resources/articles/interactive-connectors-full-tool",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "title": "More ways to work with Claude: Sheets, Whiteboards, and Interactive Connectors",
+      "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
       "title": "JPMorganChase expands Claude Code to more employees across the firm",
       "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
       "publishedAt": "2026-11-09T00:00:00.000Z"
@@ -576,7 +596,13 @@
   ],
   "openai-developers": [
     {
-      "title": "Build a retro handheld game with Codex and ModRetro Chromatic",
+      "title": "Pushing voice agents further: inside four GPT-Live builds",
+      "url": "https://developers.openai.com/blog/pushing-voice-agents-further",
+      "description": "A startup showcase on how teams delegate work, prompt for voice, and evaluate what happens in real conversations.",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "title": "Building a retro handheld game with Codex and ModRetro Chromatic",
       "url": "https://developers.openai.com/blog/build-a-game-with-modretro-chromatic",
       "description": "Using the ModRetro Chromatic plugin for Codex, you can build any game you can imagine and play it on a ModRetro Chromatic.",
       "publishedAt": "2026-11-09T00:00:00.000Z"
