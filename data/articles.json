@@ -254,6 +254,11 @@
   ],
   "claude-blog": [
     {
+      "title": "JPMorganChase expands Claude Code to more employees across the firm",
+      "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+      "publishedAt": "2026-11-09T00:00:00.000Z"
+    },
+    {
       "title": "More visibility and control over Claude Enterprise for security teams",
       "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
       "publishedAt": "2026-11-05T00:00:00.000Z"
