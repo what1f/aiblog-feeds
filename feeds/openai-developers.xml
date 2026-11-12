@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Securing persistent agents like OpenClaw at OpenAI</title>
+      <link>https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How OpenAI combines trusted control-plane services, Codex sandboxing, auto-review, agent identity, and observability to run persistent agents.</description>
+    </item>
+    <item>
       <title>Pushing voice agents further: inside four GPT-Live builds</title>
       <link>https://developers.openai.com/blog/pushing-voice-agents-further</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/pushing-voice-agents-further</guid>

@@ -6,11 +6,54 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Introducing Claude for Manufacturing</title>
+      <link>https://claude.com/resources/articles/claude-for-manufacturing</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/claude-for-manufacturing</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Introducing Claude Meetings</title>
+      <link>https://claude.com/resources/articles/claude-meetings</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/claude-meetings</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>The Claude Tag guide for startups</title>
+      <link>https://claude.com/resources/articles/claude-tag-guide-for-startups</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/claude-tag-guide-for-startups</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
       <title>J. Crew brings its signature approach to styling to life with Claude</title>
       <link>https://claude.com/resources/articles/j-crew-style-advisor-with-claude</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/j-crew-style-advisor-with-claude</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
       <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Operate Claude Managed Agents inside your security perimeter</title>
+      <link>https://claude.com/resources/articles/self-hosted-claude-managed-agents</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/self-hosted-claude-managed-agents</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Using Claude Opus 5.5 as your daily driver for knowledge work</title>
+      <link>https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Securing persistent agents like OpenClaw at OpenAI</title>
+      <link>https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How OpenAI combines trusted control-plane services, Codex sandboxing, auto-review, agent identity, and observability to run persistent agents.</description>
+      <category>OpenAI Developer Blog</category>
     </item>
     <item>
       <title>How Curative is building a national provider network with agents on Claude</title>

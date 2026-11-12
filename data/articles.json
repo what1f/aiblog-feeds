@@ -254,8 +254,33 @@
   ],
   "claude-blog": [
     {
+      "title": "Introducing Claude for Manufacturing",
+      "url": "https://claude.com/resources/articles/claude-for-manufacturing",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing Claude Meetings",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "The Claude Tag guide for startups",
+      "url": "https://claude.com/resources/articles/claude-tag-guide-for-startups",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
       "title": "J. Crew brings its signature approach to styling to life with Claude",
       "url": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "Operate Claude Managed Agents inside your security perimeter",
+      "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "title": "Using Claude Opus 5.5 as your daily driver for knowledge work",
+      "url": "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work",
       "publishedAt": "2026-11-12T00:00:00.000Z"
     },
     {
@@ -600,6 +625,12 @@
     }
   ],
   "openai-developers": [
+    {
+      "title": "Securing persistent agents like OpenClaw at OpenAI",
+      "url": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
+      "description": "How OpenAI combines trusted control-plane services, Codex sandboxing, auto-review, agent identity, and observability to run persistent agents.",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
     {
       "title": "Pushing voice agents further: inside four GPT-Live builds",
       "url": "https://developers.openai.com/blog/pushing-voice-agents-further",
