@@ -254,6 +254,11 @@
   ],
   "claude-blog": [
     {
+      "title": "J. Crew brings its signature approach to styling to life with Claude",
+      "url": "https://claude.com/resources/articles/j-crew-style-advisor-with-claude",
+      "publishedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
       "title": "How Curative is building a national provider network with agents on Claude",
       "url": "https://claude.com/resources/articles/how-curative-is-building-a-national-provider-network-with-agents-on-claude",
       "publishedAt": "2026-11-10T00:00:00.000Z"
