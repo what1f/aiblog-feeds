@@ -6,6 +6,12 @@
     <description>Engineering articles from Anthropic.</description>
     <language>en</language>
     <item>
+      <title>Building strong safety evaluations</title>
+      <link>https://www.anthropic.com/research/building-strong-safety-evaluations</link>
+      <guid isPermaLink="true">https://www.anthropic.com/research/building-strong-safety-evaluations</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>The components of agent memory</title>
       <link>https://www.anthropic.com/research/components-of-agent-memory</link>
       <guid isPermaLink="true">https://www.anthropic.com/research/components-of-agent-memory</guid>
