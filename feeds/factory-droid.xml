@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Factory Droid Research</title>
+    <link>https://factory.com/news?category=research</link>
+    <description>Research articles from Factory about coding agents, agent harnesses, and evaluation.</description>
+    <language>en</language>
+    <item>
+      <title>Droid 1.0: Building a Frontier Harness</title>
+      <link>https://factory.com/news/frontier-harness</link>
+      <guid isPermaLink="true">https://factory.com/news/frontier-harness</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A new engine powering Factory&apos;s enterprise agent, built for complex projects and everyday development.</description>
+    </item>
+    <item>
+      <title>What it Takes for Coding Agents to Complete Large Software Tasks</title>
+      <link>https://factory.com/news/what-it-takes-for-coding-agents-to-complete-large-software-tasks</link>
+      <guid isPermaLink="true">https://factory.com/news/what-it-takes-for-coding-agents-to-complete-large-software-tasks</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Held to a standard of completion they wrote themselves, agents rebuilt complex programs to near-parity.</description>
+    </item>
+    <item>
+      <title>Why model routing must be in the harness</title>
+      <link>https://factory.com/news/model-routing-belongs-in-the-harness</link>
+      <guid isPermaLink="true">https://factory.com/news/model-routing-belongs-in-the-harness</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Droid’s model routing cut cost 58% without lowering quality. Only the harness can judge when a model switch is worth the cache miss; the harness fits the job and the model to each other; and task outcomes improve later routing.</description>
+    </item>
+    <item>
+      <title>Droid Shield 2.0: learned secret detection</title>
+      <link>https://factory.com/news/droid-shield-2-0</link>
+      <guid isPermaLink="true">https://factory.com/news/droid-shield-2-0</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deferred Context Engine</title>
+      <link>https://factory.com/news/deferred-context-engine</link>
+      <guid isPermaLink="true">https://factory.com/news/deferred-context-engine</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <description>Droid keeps internal tools, MCP tools, skills, and plugins reachable without loading every schema on every turn. Production telemetry quantifies estimated input-token savings by catalog size.</description>
+    </item>
+    <item>
+      <title>Which Model Reviews Code Best?</title>
+      <link>https://factory.com/news/code-review-benchmark</link>
+      <guid isPermaLink="true">https://factory.com/news/code-review-benchmark</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <description>We benchmarked 13 models to find the best price-performance tradeoff for AI code review.</description>
+    </item>
+    <item>
+      <title>How Missions Work</title>
+      <link>https://factory.com/news/missions-architecture</link>
+      <guid isPermaLink="true">https://factory.com/news/missions-architecture</guid>
+      <pubDate>Fri, 10 Apr 2026 07:00:00 GMT</pubDate>
+      <description>The architecture behind Missions: why agent context shapes every design decision, how separation of concerns and test-driven development at two levels produce reliable multi-day autonomous work, and how the system actually runs.</description>
+    </item>
+    <item>
+      <title>Legacy-Bench: Can AI Agents Maintain the World&apos;s Most Critical Software?</title>
+      <link>https://factory.com/news/legacy-bench</link>
+      <guid isPermaLink="true">https://factory.com/news/legacy-bench</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A new benchmark designed to measure frontier AI agent capabilities on legacy software engineering tasks spanning COBOL, Fortran, Java 7, and more.</description>
+    </item>
+    <item>
+      <title>Signals: Toward a Self-Improving Agent</title>
+      <link>https://factory.com/news/factory-signals</link>
+      <guid isPermaLink="true">https://factory.com/news/factory-signals</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+      <description>How we built a closed-loop system for recursive self-improvement—where the agent detects its own failures and implements fixes automatically.</description>
+    </item>
+    <item>
+      <title>Let Me Droid That For You: What 780K Agent Searches Reveal</title>
+      <link>https://factory.com/news/what-droid-searches</link>
+      <guid isPermaLink="true">https://factory.com/news/what-droid-searches</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Droid analyzed 780,000 of its own web searches. It wrote the queries, built the pipeline, and generated the visualizations.</description>
+    </item>
+    <item>
+      <title>Evaluating Context Compression for AI Agents</title>
+      <link>https://factory.com/news/evaluating-compression</link>
+      <guid isPermaLink="true">https://factory.com/news/evaluating-compression</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+      <description>We built an evaluation framework to measure how much context different compression strategies preserve. After testing three approaches on real-world, long-running agent sessions spanning debugging, code review, and feature implementation, we found that structured summarization retains more useful information than alternatives from OpenAI and Anthropic.</description>
+    </item>
+    <item>
+      <title>The Droid Wars: Breaking up an AI‑orchestrated cyber fraud campaign</title>
+      <link>https://factory.com/news/droid-neutralizing-fraud</link>
+      <guid isPermaLink="true">https://factory.com/news/droid-neutralizing-fraud</guid>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <description>How we detected and disrupted a highly automated cyber operation that attempted to turn our AI software development platform into a node within a worldwide mesh of off‑label LLM usage.</description>
+    </item>
+    <item>
+      <title>Compressing Context</title>
+      <link>https://factory.com/news/compressing-context</link>
+      <guid isPermaLink="true">https://factory.com/news/compressing-context</guid>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <description>LLMs attend only to the tokens in their current prompt. Because every model enforces a finite context window, extended conversations and multi-step workflows eventually exceed that limit. Our strategy for retaining, selecting, and compressing prior turns is a major lever on inference quality, latency, and cost.</description>
+    </item>
+    <item>
+      <title>Building AI for Safe and Responsible Autonomy: Our Readiness Policy</title>
+      <link>https://factory.com/news/safe-autonomy-readiness-policy</link>
+      <guid isPermaLink="true">https://factory.com/news/safe-autonomy-readiness-policy</guid>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+      <description>Our mission at Factory is to bring autonomy to software engineering in a way that prioritizes safety, responsibility, and transparency.</description>
+    </item>
+    <item>
+      <title>Code Droid: A Technical Report</title>
+      <link>https://factory.com/news/code-droid-technical-report</link>
+      <guid isPermaLink="true">https://factory.com/news/code-droid-technical-report</guid>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

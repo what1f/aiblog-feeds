@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Amp Notes</title>
+    <link>https://ampcode.com/notes</link>
+    <description>Technical notes from the Amp team on building and using agents.</description>
+    <language>en</language>
+    <item>
+      <title>Orbs, Explained</title>
+      <link>https://ampcode.com/notes/orbs-explained</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/orbs-explained</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Everything has changed for us with orbs. How do I make you believe me?</description>
+    </item>
+    <item>
+      <title>“That&apos;s not SOC 2 compliant”</title>
+      <link>https://ampcode.com/notes/thats-not-soc-2-compliant</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/thats-not-soc-2-compliant</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <description>`git push origin main`</description>
+    </item>
+    <item>
+      <title>Pave the Road</title>
+      <link>https://ampcode.com/notes/pave-the-road</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/pave-the-road</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description>A call to action, and why the latest model doesn&apos;t matter.</description>
+    </item>
+    <item>
+      <title>What I Want to Tell You About Orbs</title>
+      <link>https://ampcode.com/notes/what-i-want-to-tell-you-about-orbs</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/what-i-want-to-tell-you-about-orbs</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Everything has changed for us with orbs. How do I make you to believe me?</description>
+    </item>
+    <item>
+      <title>Putting an Agent in an Orb</title>
+      <link>https://ampcode.com/notes/putting-an-agent-in-an-orb</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/putting-an-agent-in-an-orb</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <description>How we made our codebase work for agents on headless remote machines.</description>
+    </item>
+    <item>
+      <title>Mainframe Magic</title>
+      <link>https://ampcode.com/notes/mainframe-magic</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/mainframe-magic</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+      <description>A guide to migrating COBOL code with an agent.</description>
+    </item>
+    <item>
+      <title>Feedback Loopable</title>
+      <link>https://ampcode.com/notes/feedback-loopable</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/feedback-loopable</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Build a playground, run experiments, and make it feedback loopable.</description>
+    </item>
+    <item>
+      <title>How to Pair With an Agent</title>
+      <link>https://ampcode.com/notes/how-to-pair-with-an-agent</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/how-to-pair-with-an-agent</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Trust isn&apos;t a feeling. It&apos;s a passing test suite.</description>
+    </item>
+    <item>
+      <title>A Codebase by an Agent for an Agent</title>
+      <link>https://ampcode.com/notes/by-an-agent-for-an-agent</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/by-an-agent-for-an-agent</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+      <description>What happens when you let an agent build a codebase for itself?</description>
+    </item>
+    <item>
+      <title>200k Tokens Is Plenty</title>
+      <link>https://ampcode.com/notes/200k-tokens-is-plenty</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/200k-tokens-is-plenty</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+      <description>Short threads are cheaper, better, and easier to reason about.</description>
+    </item>
+    <item>
+      <title>How We Think about Permissions</title>
+      <link>https://ampcode.com/notes/permissions</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/permissions</guid>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Agents work best when they can get feedback about the changes they are making.</description>
+    </item>
+    <item>
+      <title>Agents for the Agent</title>
+      <link>https://ampcode.com/notes/agents-for-the-agent</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/agents-for-the-agent</guid>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <description>Amp now has new subagents and they&apos;re more powerful than ever.</description>
+    </item>
+    <item>
+      <title>Amp is now available. Here&apos;s how I use it.</title>
+      <link>https://ampcode.com/notes/how-i-use-amp</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/how-i-use-amp</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <description>How I personally use Amp to develop software.</description>
+    </item>
+    <item>
+      <title>How We Build</title>
+      <link>https://ampcode.com/how-we-build</link>
+      <guid isPermaLink="true">https://ampcode.com/how-we-build</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <description>How we build Amp.</description>
+    </item>
+    <item>
+      <title>Frequently Ignored Feedback (FIF)</title>
+      <link>https://ampcode.com/notes/fif</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/fif</guid>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <description>Our responses to common feedback that we are intentionally not acting on.</description>
+    </item>
+  </channel>
+</rss>

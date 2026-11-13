@@ -935,5 +935,187 @@
       "publishedAt": "2026-08-06T13:00:00.000Z",
       "description": "Agents are a new kind of visitor. They don't render CSS or click ads, but they have a paying human on the other end. Block them and you block your customer. We're building the open tools and protocols so publishers and agents can cooperate and not collide."
     }
+  ],
+  "amp-notes": [
+    {
+      "title": "Orbs, Explained",
+      "url": "https://ampcode.com/notes/orbs-explained",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "description": "Everything has changed for us with orbs. How do I make you believe me?"
+    },
+    {
+      "title": "“That's not SOC 2 compliant”",
+      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "description": "`git push origin main`"
+    },
+    {
+      "title": "Pave the Road",
+      "url": "https://ampcode.com/notes/pave-the-road",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "description": "A call to action, and why the latest model doesn't matter."
+    },
+    {
+      "title": "What I Want to Tell You About Orbs",
+      "url": "https://ampcode.com/notes/what-i-want-to-tell-you-about-orbs",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "description": "Everything has changed for us with orbs. How do I make you to believe me?"
+    },
+    {
+      "title": "Putting an Agent in an Orb",
+      "url": "https://ampcode.com/notes/putting-an-agent-in-an-orb",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "description": "How we made our codebase work for agents on headless remote machines."
+    },
+    {
+      "title": "Mainframe Magic",
+      "url": "https://ampcode.com/notes/mainframe-magic",
+      "publishedAt": "2026-02-24T00:00:00.000Z",
+      "description": "A guide to migrating COBOL code with an agent."
+    },
+    {
+      "title": "Feedback Loopable",
+      "url": "https://ampcode.com/notes/feedback-loopable",
+      "publishedAt": "2026-02-05T00:00:00.000Z",
+      "description": "Build a playground, run experiments, and make it feedback loopable."
+    },
+    {
+      "title": "How to Pair With an Agent",
+      "url": "https://ampcode.com/notes/how-to-pair-with-an-agent",
+      "publishedAt": "2026-01-14T00:00:00.000Z",
+      "description": "Trust isn't a feeling. It's a passing test suite."
+    },
+    {
+      "title": "A Codebase by an Agent for an Agent",
+      "url": "https://ampcode.com/notes/by-an-agent-for-an-agent",
+      "publishedAt": "2025-12-18T00:00:00.000Z",
+      "description": "What happens when you let an agent build a codebase for itself?"
+    },
+    {
+      "title": "200k Tokens Is Plenty",
+      "url": "https://ampcode.com/notes/200k-tokens-is-plenty",
+      "publishedAt": "2025-12-10T00:00:00.000Z",
+      "description": "Short threads are cheaper, better, and easier to reason about."
+    },
+    {
+      "title": "How We Think about Permissions",
+      "url": "https://ampcode.com/notes/permissions",
+      "publishedAt": "2025-09-10T00:00:00.000Z",
+      "description": "Agents work best when they can get feedback about the changes they are making."
+    },
+    {
+      "title": "Agents for the Agent",
+      "url": "https://ampcode.com/notes/agents-for-the-agent",
+      "publishedAt": "2025-06-10T00:00:00.000Z",
+      "description": "Amp now has new subagents and they're more powerful than ever."
+    },
+    {
+      "title": "Amp is now available. Here's how I use it.",
+      "url": "https://ampcode.com/notes/how-i-use-amp",
+      "publishedAt": "2025-05-15T00:00:00.000Z",
+      "description": "How I personally use Amp to develop software."
+    },
+    {
+      "title": "How We Build",
+      "url": "https://ampcode.com/how-we-build",
+      "publishedAt": "2025-05-12T00:00:00.000Z",
+      "description": "How we build Amp."
+    },
+    {
+      "title": "Frequently Ignored Feedback (FIF)",
+      "url": "https://ampcode.com/notes/fif",
+      "publishedAt": "2025-04-29T00:00:00.000Z",
+      "description": "Our responses to common feedback that we are intentionally not acting on."
+    }
+  ],
+  "factory-droid": [
+    {
+      "title": "Droid 1.0: Building a Frontier Harness",
+      "url": "https://factory.com/news/frontier-harness",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "description": "A new engine powering Factory's enterprise agent, built for complex projects and everyday development."
+    },
+    {
+      "title": "What it Takes for Coding Agents to Complete Large Software Tasks",
+      "url": "https://factory.com/news/what-it-takes-for-coding-agents-to-complete-large-software-tasks",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "description": "Held to a standard of completion they wrote themselves, agents rebuilt complex programs to near-parity."
+    },
+    {
+      "title": "Why model routing must be in the harness",
+      "url": "https://factory.com/news/model-routing-belongs-in-the-harness",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "description": "Droid’s model routing cut cost 58% without lowering quality. Only the harness can judge when a model switch is worth the cache miss; the harness fits the job and the model to each other; and task outcomes improve later routing."
+    },
+    {
+      "title": "Droid Shield 2.0: learned secret detection",
+      "url": "https://factory.com/news/droid-shield-2-0",
+      "publishedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "title": "Deferred Context Engine",
+      "url": "https://factory.com/news/deferred-context-engine",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
+      "description": "Droid keeps internal tools, MCP tools, skills, and plugins reachable without loading every schema on every turn. Production telemetry quantifies estimated input-token savings by catalog size."
+    },
+    {
+      "title": "Which Model Reviews Code Best?",
+      "url": "https://factory.com/news/code-review-benchmark",
+      "publishedAt": "2026-04-29T00:00:00.000Z",
+      "description": "We benchmarked 13 models to find the best price-performance tradeoff for AI code review."
+    },
+    {
+      "title": "How Missions Work",
+      "url": "https://factory.com/news/missions-architecture",
+      "publishedAt": "2026-04-10T07:00:00.000Z",
+      "description": "The architecture behind Missions: why agent context shapes every design decision, how separation of concerns and test-driven development at two levels produce reliable multi-day autonomous work, and how the system actually runs."
+    },
+    {
+      "title": "Legacy-Bench: Can AI Agents Maintain the World's Most Critical Software?",
+      "url": "https://factory.com/news/legacy-bench",
+      "publishedAt": "2026-04-01T00:00:00.000Z",
+      "description": "A new benchmark designed to measure frontier AI agent capabilities on legacy software engineering tasks spanning COBOL, Fortran, Java 7, and more."
+    },
+    {
+      "title": "Signals: Toward a Self-Improving Agent",
+      "url": "https://factory.com/news/factory-signals",
+      "publishedAt": "2026-01-23T00:00:00.000Z",
+      "description": "How we built a closed-loop system for recursive self-improvement—where the agent detects its own failures and implements fixes automatically."
+    },
+    {
+      "title": "Let Me Droid That For You: What 780K Agent Searches Reveal",
+      "url": "https://factory.com/news/what-droid-searches",
+      "publishedAt": "2026-01-07T00:00:00.000Z",
+      "description": "Droid analyzed 780,000 of its own web searches. It wrote the queries, built the pipeline, and generated the visualizations."
+    },
+    {
+      "title": "Evaluating Context Compression for AI Agents",
+      "url": "https://factory.com/news/evaluating-compression",
+      "publishedAt": "2025-12-16T00:00:00.000Z",
+      "description": "We built an evaluation framework to measure how much context different compression strategies preserve. After testing three approaches on real-world, long-running agent sessions spanning debugging, code review, and feature implementation, we found that structured summarization retains more useful information than alternatives from OpenAI and Anthropic."
+    },
+    {
+      "title": "The Droid Wars: Breaking up an AI‑orchestrated cyber fraud campaign",
+      "url": "https://factory.com/news/droid-neutralizing-fraud",
+      "publishedAt": "2025-11-20T00:00:00.000Z",
+      "description": "How we detected and disrupted a highly automated cyber operation that attempted to turn our AI software development platform into a node within a worldwide mesh of off‑label LLM usage."
+    },
+    {
+      "title": "Compressing Context",
+      "url": "https://factory.com/news/compressing-context",
+      "publishedAt": "2025-07-21T00:00:00.000Z",
+      "description": "LLMs attend only to the tokens in their current prompt. Because every model enforces a finite context window, extended conversations and multi-step workflows eventually exceed that limit. Our strategy for retaining, selecting, and compressing prior turns is a major lever on inference quality, latency, and cost."
+    },
+    {
+      "title": "Building AI for Safe and Responsible Autonomy: Our Readiness Policy",
+      "url": "https://factory.com/news/safe-autonomy-readiness-policy",
+      "publishedAt": "2025-03-04T00:00:00.000Z",
+      "description": "Our mission at Factory is to bring autonomy to software engineering in a way that prioritizes safety, responsibility, and transparency."
+    },
+    {
+      "title": "Code Droid: A Technical Report",
+      "url": "https://factory.com/news/code-droid-technical-report",
+      "publishedAt": "2024-06-18T00:00:00.000Z"
+    }
   ]
 }

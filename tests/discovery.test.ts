@@ -36,6 +36,10 @@ test("failed sources retain history while successful sources publish", async () 
       if (address === "https://cursor.com/blog/topic/research") return new Response('<a class="blog-directory__row" href="/blog/research"><time datetime="2026-11-01T00:00:00Z"></time><p>Cursor research article</p></a>');
       if (address === "https://cursor.com/blog/research") return new Response('<link rel="canonical" href="https://cursor.com/blog/research">');
       if (address === "https://blog.cloudflare.com/tag/agents/rss") return new Response('<rss><channel><item><title>Cloudflare agents article</title><link>https://blog.cloudflare.com/agents-article/</link><category>Agents</category><pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate></item></channel></rss>');
+      const rss = (title: string, link: string) => `<rss><channel><item><title>${title}</title><link>${link}</link><pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate></item></channel></rss>`;
+      if (address === "https://ampcode.com/notes.rss") return new Response(rss("Amp notes article", "https://ampcode.com/notes/article"));
+      if (address === "https://factory.com/news?category=research") return new Response('<li><a href="/news/harness"></a><span>01 NOV 2026 · Research</span></li>');
+      if (address === "https://factory.com/news/rss") return new Response(rss("Factory research article", "https://factory.com/news/harness"));
       return new Response("<html></html>");
     };
     process.chdir(directory);
@@ -46,7 +50,7 @@ test("failed sources retain history while successful sources publish", async () 
     const combined = await readFile(join(directory, "feeds/all.xml"), "utf8");
     assert.match(combined, /Previous article/);
     assert.match(combined, /Source control/);
-    for (const [id, title] of [["cursor-research", "Cursor research article"], ["cloudflare-agents", "Cloudflare agents article"]]) {
+    for (const [id, title] of [["cursor-research", "Cursor research article"], ["cloudflare-agents", "Cloudflare agents article"], ["amp-notes", "Amp notes article"], ["factory-droid", "Factory research article"]]) {
       assert.equal(data[id].length, 1);
       assert.match(combined, new RegExp(title));
       assert.match(await readFile(join(directory, `feeds/${id}.xml`), "utf8"), new RegExp(title));

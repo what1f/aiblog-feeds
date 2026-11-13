@@ -166,6 +166,14 @@
       <category>Claude Blog</category>
     </item>
     <item>
+      <title>Droid 1.0: Building a Frontier Harness</title>
+      <link>https://factory.com/news/frontier-harness</link>
+      <guid isPermaLink="true">https://factory.com/news/frontier-harness</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <description>A new engine powering Factory&apos;s enterprise agent, built for complex projects and everyday development.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
       <title>IDC brings Quanta into Claude and adopts Claude across the company</title>
       <link>https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company</guid>
@@ -648,6 +656,22 @@
       <category>OpenAI Developer Blog</category>
     </item>
     <item>
+      <title>What it Takes for Coding Agents to Complete Large Software Tasks</title>
+      <link>https://factory.com/news/what-it-takes-for-coding-agents-to-complete-large-software-tasks</link>
+      <guid isPermaLink="true">https://factory.com/news/what-it-takes-for-coding-agents-to-complete-large-software-tasks</guid>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 GMT</pubDate>
+      <description>Held to a standard of completion they wrote themselves, agents rebuilt complex programs to near-parity.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
+      <title>Orbs, Explained</title>
+      <link>https://ampcode.com/notes/orbs-explained</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/orbs-explained</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Everything has changed for us with orbs. How do I make you believe me?</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
       <title>Automating repetitive work at OpenAI with Codex</title>
       <link>https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/automating-repetitive-work-at-openai-with-codex</guid>
@@ -662,6 +686,14 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
       <description>From a short-staffed veterinary clinic to speech accessibility, spatial audio, and ancient machines, the winning projects started with problems their builders knew well.</description>
       <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Why model routing must be in the harness</title>
+      <link>https://factory.com/news/model-routing-belongs-in-the-harness</link>
+      <guid isPermaLink="true">https://factory.com/news/model-routing-belongs-in-the-harness</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Droid’s model routing cut cost 58% without lowering quality. Only the harness can judge when a model switch is worth the cache miss; the harness fits the job and the model to each other; and task outcomes improve later routing.</description>
+      <category>Factory Droid Research</category>
     </item>
     <item>
       <title>Scaling cyber defenders with Daybreak</title>
@@ -695,6 +727,14 @@
       <category>Cursor Research</category>
     </item>
     <item>
+      <title>“That&apos;s not SOC 2 compliant”</title>
+      <link>https://ampcode.com/notes/thats-not-soc-2-compliant</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/thats-not-soc-2-compliant</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <description>`git push origin main`</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
       <title>Introducing Grok 4.6</title>
       <link>https://cursor.com/blog/grok-4-6</link>
       <guid isPermaLink="true">https://cursor.com/blog/grok-4-6</guid>
@@ -709,6 +749,14 @@
       <pubDate>Mon, 10 Aug 2026 18:34:10 GMT</pubDate>
       <description>Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.</description>
       <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Pave the Road</title>
+      <link>https://ampcode.com/notes/pave-the-road</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/pave-the-road</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <description>A call to action, and why the latest model doesn&apos;t matter.</description>
+      <category>Amp Notes</category>
     </item>
     <item>
       <title>Unveiling good and bad behaviors on the Agentic Internet</title>
@@ -791,6 +839,14 @@
       <category>Cursor Research</category>
     </item>
     <item>
+      <title>What I Want to Tell You About Orbs</title>
+      <link>https://ampcode.com/notes/what-i-want-to-tell-you-about-orbs</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/what-i-want-to-tell-you-about-orbs</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Everything has changed for us with orbs. How do I make you to believe me?</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
       <title>How we set up our cloud agent environment</title>
       <link>https://cursor.com/blog/cloud-agent-environment</link>
       <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-environment</guid>
@@ -837,6 +893,21 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
       <description>Our most intelligent model and the first we&apos;ve built for more than software engineering.</description>
       <category>Cursor Research</category>
+    </item>
+    <item>
+      <title>Putting an Agent in an Orb</title>
+      <link>https://ampcode.com/notes/putting-an-agent-in-an-orb</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/putting-an-agent-in-an-orb</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <description>How we made our codebase work for agents on headless remote machines.</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
+      <title>Droid Shield 2.0: learned secret detection</title>
+      <link>https://factory.com/news/droid-shield-2-0</link>
+      <guid isPermaLink="true">https://factory.com/news/droid-shield-2-0</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Factory Droid Research</category>
     </item>
     <item>
       <title>Making private MCP servers reachable without making them public</title>
@@ -903,6 +974,14 @@
       <category>claude.dev</category>
     </item>
     <item>
+      <title>Deferred Context Engine</title>
+      <link>https://factory.com/news/deferred-context-engine</link>
+      <guid isPermaLink="true">https://factory.com/news/deferred-context-engine</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <description>Droid keeps internal tools, MCP tools, skills, and plugins reachable without loading every schema on every turn. Production telemetry quantifies estimated input-token savings by catalog size.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
       <title>Lessons from building Claude Code: Prompt caching is everything</title>
       <link>https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/</link>
       <guid isPermaLink="true">https://claude.dev/blog/lessons-from-building-claude-code-prompt-caching-is-everything/</guid>
@@ -911,11 +990,27 @@
       <category>claude.dev</category>
     </item>
     <item>
+      <title>Which Model Reviews Code Best?</title>
+      <link>https://factory.com/news/code-review-benchmark</link>
+      <guid isPermaLink="true">https://factory.com/news/code-review-benchmark</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <description>We benchmarked 13 models to find the best price-performance tradeoff for AI code review.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
       <title>An update on recent Claude Code quality reports</title>
       <link>https://www.anthropic.com/research/april-23-postmortem</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/april-23-postmortem</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>How Missions Work</title>
+      <link>https://factory.com/news/missions-architecture</link>
+      <guid isPermaLink="true">https://factory.com/news/missions-architecture</guid>
+      <pubDate>Fri, 10 Apr 2026 07:00:00 GMT</pubDate>
+      <description>The architecture behind Missions: why agent context shapes every design decision, how separation of concerns and test-driven development at two levels produce reliable multi-day autonomous work, and how the system actually runs.</description>
+      <category>Factory Droid Research</category>
     </item>
     <item>
       <title>Seeing like an agent: how we design tools in Claude Code</title>
@@ -931,6 +1026,14 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/managed-agents</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Legacy-Bench: Can AI Agents Maintain the World&apos;s Most Critical Software?</title>
+      <link>https://factory.com/news/legacy-bench</link>
+      <guid isPermaLink="true">https://factory.com/news/legacy-bench</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A new benchmark designed to measure frontier AI agent capabilities on legacy software engineering tasks spanning COBOL, Fortran, Java 7, and more.</description>
+      <category>Factory Droid Research</category>
     </item>
     <item>
       <title>How Perplexity Brought Voice Search to Millions Using the Realtime API</title>
@@ -994,6 +1097,14 @@
       <category>OpenAI Developer Blog</category>
     </item>
     <item>
+      <title>Mainframe Magic</title>
+      <link>https://ampcode.com/notes/mainframe-magic</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/mainframe-magic</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+      <description>A guide to migrating COBOL code with an agent.</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
       <title>Run long horizon tasks with Codex</title>
       <link>https://developers.openai.com/blog/run-long-horizon-tasks-with-codex</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/run-long-horizon-tasks-with-codex</guid>
@@ -1007,6 +1118,14 @@
       <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
       <description>Practical patterns for building with skills, hosted shell, and server-side compaction in the Responses API.</description>
       <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Feedback Loopable</title>
+      <link>https://ampcode.com/notes/feedback-loopable</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/feedback-loopable</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <description>Build a playground, run experiments, and make it feedback loopable.</description>
+      <category>Amp Notes</category>
     </item>
     <item>
       <title>Building a C compiler with a team of parallel Claudes</title>
@@ -1031,6 +1150,14 @@
       <category>OpenAI Developer Blog</category>
     </item>
     <item>
+      <title>Signals: Toward a Self-Improving Agent</title>
+      <link>https://factory.com/news/factory-signals</link>
+      <guid isPermaLink="true">https://factory.com/news/factory-signals</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+      <description>How we built a closed-loop system for recursive self-improvement—where the agent detects its own failures and implements fixes automatically.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
       <title>Testing Agent Skills Systematically with Evals</title>
       <link>https://developers.openai.com/blog/eval-skills</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/eval-skills</guid>
@@ -1044,6 +1171,14 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/AI-resistant-technical-evaluations</guid>
       <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>How to Pair With an Agent</title>
+      <link>https://ampcode.com/notes/how-to-pair-with-an-agent</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/how-to-pair-with-an-agent</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Trust isn&apos;t a feeling. It&apos;s a passing test suite.</description>
+      <category>Amp Notes</category>
     </item>
     <item>
       <title>Supercharging Codex with JetBrains MCP at Skyscanner</title>
@@ -1061,6 +1196,14 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Let Me Droid That For You: What 780K Agent Searches Reveal</title>
+      <link>https://factory.com/news/what-droid-searches</link>
+      <guid isPermaLink="true">https://factory.com/news/what-droid-searches</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <description>Droid analyzed 780,000 of its own web searches. It wrote the queries, built the pipeline, and generated the visualizations.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
       <title>OpenAI for Developers in 2025</title>
       <link>https://developers.openai.com/blog/openai-for-developers-2025</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/openai-for-developers-2025</guid>
@@ -1075,6 +1218,30 @@
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
       <description>New audio model snapshots and broader access to Custom Voices for production voice apps.</description>
       <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>A Codebase by an Agent for an Agent</title>
+      <link>https://ampcode.com/notes/by-an-agent-for-an-agent</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/by-an-agent-for-an-agent</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+      <description>What happens when you let an agent build a codebase for itself?</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
+      <title>Evaluating Context Compression for AI Agents</title>
+      <link>https://factory.com/news/evaluating-compression</link>
+      <guid isPermaLink="true">https://factory.com/news/evaluating-compression</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+      <description>We built an evaluation framework to measure how much context different compression strategies preserve. After testing three approaches on real-world, long-running agent sessions spanning debugging, code review, and feature implementation, we found that structured summarization retains more useful information than alternatives from OpenAI and Anthropic.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
+      <title>200k Tokens Is Plenty</title>
+      <link>https://ampcode.com/notes/200k-tokens-is-plenty</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/200k-tokens-is-plenty</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+      <description>Short threads are cheaper, better, and easier to reason about.</description>
+      <category>Amp Notes</category>
     </item>
     <item>
       <title>Effective harnesses for long-running agents</title>
@@ -1097,6 +1264,14 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/advanced-tool-use</guid>
       <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>The Droid Wars: Breaking up an AI‑orchestrated cyber fraud campaign</title>
+      <link>https://factory.com/news/droid-neutralizing-fraud</link>
+      <guid isPermaLink="true">https://factory.com/news/droid-neutralizing-fraud</guid>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <description>How we detected and disrupted a highly automated cyber operation that attempted to turn our AI software development platform into a node within a worldwide mesh of off‑label LLM usage.</description>
+      <category>Factory Droid Research</category>
     </item>
     <item>
       <title>Code execution with MCP: Building more efficient agents</title>
@@ -1181,6 +1356,22 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>How We Think about Permissions</title>
+      <link>https://ampcode.com/notes/permissions</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/permissions</guid>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+      <description>Agents work best when they can get feedback about the changes they are making.</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
+      <title>Compressing Context</title>
+      <link>https://factory.com/news/compressing-context</link>
+      <guid isPermaLink="true">https://factory.com/news/compressing-context</guid>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <description>LLMs attend only to the tokens in their current prompt. Because every model enforces a finite context window, extended conversations and multi-step workflows eventually exceed that limit. Our strategy for retaining, selecting, and compressing prior turns is a major lever on inference quality, latency, and cost.</description>
+      <category>Factory Droid Research</category>
+    </item>
+    <item>
       <title>Desktop Extensions: One-click MCP server installation for Claude Desktop</title>
       <link>https://www.anthropic.com/research/desktop-extensions</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/desktop-extensions</guid>
@@ -1202,6 +1393,38 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Agents for the Agent</title>
+      <link>https://ampcode.com/notes/agents-for-the-agent</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/agents-for-the-agent</guid>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <description>Amp now has new subagents and they&apos;re more powerful than ever.</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
+      <title>Amp is now available. Here&apos;s how I use it.</title>
+      <link>https://ampcode.com/notes/how-i-use-amp</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/how-i-use-amp</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+      <description>How I personally use Amp to develop software.</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
+      <title>How We Build</title>
+      <link>https://ampcode.com/how-we-build</link>
+      <guid isPermaLink="true">https://ampcode.com/how-we-build</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+      <description>How we build Amp.</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
+      <title>Frequently Ignored Feedback (FIF)</title>
+      <link>https://ampcode.com/notes/fif</link>
+      <guid isPermaLink="true">https://ampcode.com/notes/fif</guid>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <description>Our responses to common feedback that we are intentionally not acting on.</description>
+      <category>Amp Notes</category>
+    </item>
+    <item>
       <title>Claude Code: Best practices for agentic coding</title>
       <link>https://www.anthropic.com/research/claude-code-best-practices</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/claude-code-best-practices</guid>
@@ -1214,6 +1437,14 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/claude-think-tool</guid>
       <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Building AI for Safe and Responsible Autonomy: Our Readiness Policy</title>
+      <link>https://factory.com/news/safe-autonomy-readiness-policy</link>
+      <guid isPermaLink="true">https://factory.com/news/safe-autonomy-readiness-policy</guid>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+      <description>Our mission at Factory is to bring autonomy to software engineering in a way that prioritizes safety, responsibility, and transparency.</description>
+      <category>Factory Droid Research</category>
     </item>
     <item>
       <title>Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet</title>
@@ -1235,6 +1466,13 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/contextual-retrieval</guid>
       <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
+    </item>
+    <item>
+      <title>Code Droid: A Technical Report</title>
+      <link>https://factory.com/news/code-droid-technical-report</link>
+      <guid isPermaLink="true">https://factory.com/news/code-droid-technical-report</guid>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <category>Factory Droid Research</category>
     </item>
   </channel>
 </rss>
