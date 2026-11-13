@@ -14,7 +14,7 @@ export function renderRss(
     "    <item>",
     `      <title>${xml(article.title)}</title>`,
     `      <link>${xml(article.url)}</link>`,
-    `      <guid isPermaLink="true">${xml(article.url)}</guid>`,
+    `      <guid isPermaLink="true">${xml(article.guid ?? article.url)}</guid>`,
     ...(article.publishedAt ? [`      <pubDate>${new Date(article.publishedAt).toUTCString()}</pubDate>`] : []),
     ...(article.description ? [`      <description>${xml(article.description)}</description>`] : []),
     ...(article.sourceTitle ? [`      <category>${xml(article.sourceTitle)}</category>`] : []),

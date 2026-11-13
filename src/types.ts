@@ -1,6 +1,7 @@
 export interface Article {
   title: string;
   url: string;
+  guid?: string;
   publishedAt?: string;
   description?: string;
 }

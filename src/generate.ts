@@ -2,6 +2,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { sources } from "./sources/index.js";
 import { renderRss } from "./rss.js";
+import { mergeArticles } from "./merge.js";
 import type { Article } from "./types.js";
 
 const root = process.cwd();
@@ -18,22 +19,6 @@ async function readPrevious(): Promise<Record<string, Article[]>> {
   }
 }
 
-function merge(discovered: Article[], previous: Article[]): Article[] {
-  const byUrl = new Map<string, Article>(previous.map((article) => [article.url, article]));
-  for (const article of discovered) {
-    const old = byUrl.get(article.url);
-    byUrl.set(article.url, {
-      ...old,
-      ...article,
-      publishedAt: article.publishedAt ?? old?.publishedAt,
-      description: article.description ?? old?.description,
-    });
-  }
-  return [...byUrl.values()]
-    .sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? "") || a.url.localeCompare(b.url))
-    .slice(0, maxItems);
-}
-
 async function main(): Promise<void> {
   const previous = await readPrevious();
   const next: Record<string, Article[]> = {};
@@ -42,10 +27,10 @@ async function main(): Promise<void> {
   for (const source of sources) {
     try {
       const discovered = await source.discover(previous[source.id] ?? []);
-      next[source.id] = merge(discovered, previous[source.id] ?? []);
+      next[source.id] = mergeArticles(discovered, previous[source.id] ?? [], source.id, maxItems);
       console.log(`${source.title}: ${discovered.length} found, ${next[source.id].length} retained`);
     } catch (error) {
-      next[source.id] = previous[source.id] ?? [];
+      next[source.id] = mergeArticles([], previous[source.id] ?? [], source.id, maxItems);
       console.warn(`${source.title}: update failed; retained ${next[source.id].length} articles`, error);
       if (process.env.GITHUB_ACTIONS) console.warn(`::warning::${source.title}: update failed; previous articles retained`);
     }
