@@ -30,7 +30,14 @@ test("failed sources retain history while successful sources publish", async () 
   try {
     await mkdir(join(directory, "data"));
     await writeFile(join(directory, "data/articles.json"), JSON.stringify({ "claude-blog": [oldArticle] }));
-    globalThis.fetch = async (url) => new Response(String(url).includes("anthropic.com/engineering") ? engineering : "<html></html>");
+    globalThis.fetch = async (url) => {
+      const address = String(url);
+      if (address.includes("anthropic.com/engineering")) return new Response(engineering);
+      if (address === "https://cursor.com/blog/topic/research") return new Response('<a class="blog-directory__row" href="/blog/research"><time datetime="2026-11-01T00:00:00Z"></time><p>Cursor research article</p></a>');
+      if (address === "https://cursor.com/blog/research") return new Response('<link rel="canonical" href="https://cursor.com/blog/research">');
+      if (address === "https://blog.cloudflare.com/tag/agents/rss") return new Response('<rss><channel><item><title>Cloudflare agents article</title><link>https://blog.cloudflare.com/agents-article/</link><category>Agents</category><pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate></item></channel></rss>');
+      return new Response("<html></html>");
+    };
     process.chdir(directory);
     await import("../src/generate.js");
     const data = JSON.parse(await readFile(join(directory, "data/articles.json"), "utf8"));
@@ -39,6 +46,11 @@ test("failed sources retain history while successful sources publish", async () 
     const combined = await readFile(join(directory, "feeds/all.xml"), "utf8");
     assert.match(combined, /Previous article/);
     assert.match(combined, /Source control/);
+    for (const [id, title] of [["cursor-research", "Cursor research article"], ["cloudflare-agents", "Cloudflare agents article"]]) {
+      assert.equal(data[id].length, 1);
+      assert.match(combined, new RegExp(title));
+      assert.match(await readFile(join(directory, `feeds/${id}.xml`), "utf8"), new RegExp(title));
+    }
   } finally {
     globalThis.fetch = originalFetch;
     process.chdir(cwd);

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cloudflare Agents</title>
+    <link>https://blog.cloudflare.com/tag/agents/</link>
+    <description>Articles tagged Agents from the official Cloudflare Blog RSS feed.</description>
+    <language>en</language>
+    <item>
+      <title>Agents aren’t humans (but they kinda are)</title>
+      <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/trusted-agent-delegation/</guid>
+      <pubDate>Thu, 05 Nov 2026 17:03:04 GMT</pubDate>
+      <description>AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.</description>
+    </item>
+    <item>
+      <title>How Commerce.com and Cloudflare are getting storefronts ready for AI agents</title>
+      <link>https://blog.cloudflare.com/webmcp-commerce/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/webmcp-commerce/</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <description>Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here&apos;s how we turned it on across every store at once, while keeping each merchant in control.</description>
+    </item>
+    <item>
+      <title>Cutting our inference bill by 68% by being obsessive about optimization</title>
+      <link>https://blog.cloudflare.com/obsessive-inference-optimization/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/obsessive-inference-optimization/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:12:53 GMT</pubDate>
+      <description>When our AI code reviewer&apos;s cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.</description>
+    </item>
+    <item>
+      <title>Everything we launched during Birthday Week 2026</title>
+      <link>https://blog.cloudflare.com/birthday-week-2026-wrap-up/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/birthday-week-2026-wrap-up/</guid>
+      <pubDate>Mon, 05 Oct 2026 13:00:00 GMT</pubDate>
+      <description>We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped.</description>
+    </item>
+    <item>
+      <title>Protected Quick Tunnels: simple accountless authentication for your next dev project</title>
+      <link>https://blog.cloudflare.com/protected-quick-tunnels/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/protected-quick-tunnels/</guid>
+      <pubDate>Fri, 02 Oct 2026 13:00:00 GMT</pubDate>
+      <description>Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.</description>
+    </item>
+    <item>
+      <title>The Internet has a second audience</title>
+      <link>https://blog.cloudflare.com/agentic-web/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/agentic-web/</guid>
+      <pubDate>Wed, 30 Sep 2026 12:58:00 GMT</pubDate>
+      <description>More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We&apos;re giving site owners the tools to see who&apos;s visiting, decide who gets in, and charge for access.</description>
+    </item>
+    <item>
+      <title>Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account</title>
+      <link>https://blog.cloudflare.com/threat-signals/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/threat-signals/</guid>
+      <pubDate>Tue, 29 Sep 2026 13:00:00 GMT</pubDate>
+      <description>We are expanding access to Cloudforce One&apos;s Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules.</description>
+    </item>
+    <item>
+      <title>Introducing cf: the agentic CLI for the entire Cloudflare API</title>
+      <link>https://blog.cloudflare.com/cloudflare-cf-cli-launch/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/cloudflare-cf-cli-launch/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:50:00 GMT</pubDate>
+      <description>We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator.</description>
+    </item>
+    <item>
+      <title>Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more</title>
+      <link>https://blog.cloudflare.com/forge-open-source-generation-pipeline/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/forge-open-source-generation-pipeline/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 GMT</pubDate>
+      <description>Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync.</description>
+    </item>
+    <item>
+      <title>Agents can now set up your website’s security with Turnstile Spin</title>
+      <link>https://blog.cloudflare.com/turnstile-spin/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/turnstile-spin/</guid>
+      <pubDate>Fri, 25 Sep 2026 13:00:00 GMT</pubDate>
+      <description>Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.</description>
+    </item>
+    <item>
+      <title>From all-or-nothing to task-based OAuth consent</title>
+      <link>https://blog.cloudflare.com/task-based-oauth-consent/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/task-based-oauth-consent/</guid>
+      <pubDate>Thu, 20 Aug 2026 17:03:03 GMT</pubDate>
+      <description>Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.</description>
+    </item>
+    <item>
+      <title>Everything we launched during Agents Week</title>
+      <link>https://blog.cloudflare.com/agents-week-review-august-2026/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/agents-week-review-august-2026/</guid>
+      <pubDate>Mon, 10 Aug 2026 18:34:10 GMT</pubDate>
+      <description>Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.</description>
+    </item>
+    <item>
+      <title>Unveiling good and bad behaviors on the Agentic Internet</title>
+      <link>https://blog.cloudflare.com/good-and-bad-agentic-behaviors/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/good-and-bad-agentic-behaviors/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:01:00 GMT</pubDate>
+      <description>Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out our Precursor Trace simulation to see how your own cursor movements would be assessed as human or bot.</description>
+    </item>
+    <item>
+      <title>Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding</title>
+      <link>https://blog.cloudflare.com/community-program-refresh/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/community-program-refresh/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:00:00 GMT</pubDate>
+      <description>We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community.</description>
+    </item>
+    <item>
+      <title>Introducing Radar Researcher: An AI tool for exploring Internet data in plain language</title>
+      <link>https://blog.cloudflare.com/introducing-radar-researcher/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/introducing-radar-researcher/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:00:00 GMT</pubDate>
+      <description>Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare&apos;s Developer Platform, it turns natural language queries into real, interactive charts.</description>
+    </item>
+    <item>
+      <title>Unifying Workers AI and AI Gateway into a single AI control plane</title>
+      <link>https://blog.cloudflare.com/workers-ai-gateway-unification/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/workers-ai-gateway-unification/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:00:00 GMT</pubDate>
+      <description>Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing simplify building resilient AI applications.</description>
+    </item>
+    <item>
+      <title>From ranking to recommended: get your site ready to thrive in the age of AI agents</title>
+      <link>https://blog.cloudflare.com/aeo/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/aeo/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>More than half of requests now come from machines, not people. Agent Readiness shows how well agents can discover and read your site, while Answer Engine Optimization tracks how often AI assistants recommend you.</description>
+    </item>
+    <item>
+      <title>Cloudflare AI Search: give your agents a search engine for your data</title>
+      <link>https://blog.cloudflare.com/ai-search-easier/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/ai-search-easier/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>AI Search makes search easier than ever, with no Cloudflare primitives to stitch together. Point it at your data to create a search for your own files and websites. We&apos;re also sharing a preview of our new pricing model.</description>
+    </item>
+    <item>
+      <title>The next generation of MCP</title>
+      <link>https://blog.cloudflare.com/mcp-v2/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/mcp-v2/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production.</description>
+    </item>
+    <item>
+      <title>Building an open Agentic Internet: readable, discoverable, callable, and payable</title>
+      <link>https://blog.cloudflare.com/the-agentic-internet/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/the-agentic-internet/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>Agents are a new kind of visitor. They don&apos;t render CSS or click ads, but they have a paying human on the other end. Block them and you block your customer. We&apos;re building the open tools and protocols so publishers and agents can cooperate and not collide.</description>
+    </item>
+  </channel>
+</rss>

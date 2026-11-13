@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Cursor Research</title>
+    <link>https://cursor.com/blog/topic/research</link>
+    <description>Research articles from Cursor&apos;s official Research topic.</description>
+    <language>en</language>
+    <item>
+      <title>Improved token efficiency for longer agent runs</title>
+      <link>https://cursor.com/blog/improved-token-efficiency</link>
+      <guid isPermaLink="true">https://cursor.com/blog/improved-token-efficiency</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Changes across Cursor&apos;s agent harness reduced token costs for users by 7% without reducing agent quality.</description>
+    </item>
+    <item>
+      <title>Git at any scale</title>
+      <link>https://cursor.com/blog/git-at-any-scale</link>
+      <guid isPermaLink="true">https://cursor.com/blog/git-at-any-scale</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing Grok 4.6</title>
+      <link>https://cursor.com/blog/grok-4-6</link>
+      <guid isPermaLink="true">https://cursor.com/blog/grok-4-6</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Built for long-running agents and more ambitious interactive and visual work.</description>
+    </item>
+    <item>
+      <title>How Cursor Router chooses the right model for the task</title>
+      <link>https://cursor.com/blog/how-cursor-router-works</link>
+      <guid isPermaLink="true">https://cursor.com/blog/how-cursor-router-works</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Auto Intelligence now delivers above Fable-level satisfaction at 68% lower cost. Here&apos;s how Compass and the task router choose models from real developer traffic.</description>
+    </item>
+    <item>
+      <title>Mixture-of-Kittens: our open-source MoE megakernel for NVL72s</title>
+      <link>https://cursor.com/blog/mixture-of-kittens</link>
+      <guid isPermaLink="true">https://cursor.com/blog/mixture-of-kittens</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+      <description>We&apos;re open-sourcing Mixture-of-Kittens, a deterministic MoE training megakernel for NVL72s that fuses communication and computation into a single kernel.</description>
+    </item>
+    <item>
+      <title>How we set up our cloud agent environment</title>
+      <link>https://cursor.com/blog/cloud-agent-environment</link>
+      <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-environment</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Getting our monorepo working for cloud agents taught us that the development environment is a product in its own right, only one whose users are agents.</description>
+    </item>
+    <item>
+      <title>Agent swarms and the new model economics</title>
+      <link>https://cursor.com/blog/agent-swarm-model-economics</link>
+      <guid isPermaLink="true">https://cursor.com/blog/agent-swarm-model-economics</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+      <description>We compared old and new agent swarms building SQLite from scratch and found that better coordination delivers similar quality at a fraction of the cost.</description>
+    </item>
+    <item>
+      <title>Grok 4.5 Model Card</title>
+      <link>https://cursor.com/blog/grok-4-5-model-card</link>
+      <guid isPermaLink="true">https://cursor.com/blog/grok-4-5-model-card</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The official model card for Grok 4.5. It documents the model&apos;s capability benchmarks and safety evaluations.</description>
+    </item>
+    <item>
+      <title>Introducing Grok 4.5</title>
+      <link>https://cursor.com/blog/grok-4-5</link>
+      <guid isPermaLink="true">https://cursor.com/blog/grok-4-5</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Our most intelligent model and the first we&apos;ve built for more than software engineering.</description>
+    </item>
+    <item>
+      <title>Reward hacking is swamping model intelligence gains</title>
+      <link>https://cursor.com/blog/reward-hacking-coding-benchmarks</link>
+      <guid isPermaLink="true">https://cursor.com/blog/reward-hacking-coding-benchmarks</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+      <description>On SWE-bench Pro, 63% of successful Opus 4.8 Max resolutions retrieved the fix rather than derived it. Stricter eval harnesses show how benchmark scores can conflate coding ability with answer retrieval.</description>
+    </item>
+    <item>
+      <title>Governing agent autonomy with Auto-review</title>
+      <link>https://cursor.com/blog/agent-autonomy-auto-review</link>
+      <guid isPermaLink="true">https://cursor.com/blog/agent-autonomy-auto-review</guid>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Auto-review uses a classifier agent to govern local agent autonomy, allowing low-stakes actions to run freely while slowing down when an action crosses a meaningful boundary.</description>
+    </item>
+  </channel>
+</rss>

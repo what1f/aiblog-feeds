@@ -8,7 +8,11 @@ RSS feeds for AI engineering and developer blogs. GitHub Actions refreshes them 
 | Claude Blog | [claude.com/blog](https://claude.com/blog) | [claude-blog.xml](https://what1f.github.io/aiblog-feeds/feeds/claude-blog.xml) |
 | claude.dev | [claude.dev](https://claude.dev/) | [claude-dev.xml](https://what1f.github.io/aiblog-feeds/feeds/claude-dev.xml) |
 | OpenAI Developer Blog | [developers.openai.com/blog](https://developers.openai.com/blog) | [openai-developers.xml](https://what1f.github.io/aiblog-feeds/feeds/openai-developers.xml) |
+| Cursor Research | [cursor.com/blog/topic/research](https://cursor.com/blog/topic/research) | [cursor-research.xml](https://what1f.github.io/aiblog-feeds/feeds/cursor-research.xml) |
+| Cloudflare Agents | [blog.cloudflare.com/tag/agents](https://blog.cloudflare.com/tag/agents/) | [cloudflare-agents.xml](https://what1f.github.io/aiblog-feeds/feeds/cloudflare-agents.xml) |
 | All sources | — | [all.xml](https://what1f.github.io/aiblog-feeds/feeds/all.xml) |
+
+Cursor includes only English Cursor-hosted posts from the official Research topic, not product/company updates or external cross-posts. Cloudflare uses its official Agents tag RSS, excluding localized aliases. Both also appear in `all.xml`.
 
 ## Add a source
 

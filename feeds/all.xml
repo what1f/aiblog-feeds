@@ -130,6 +130,14 @@
       <category>Anthropic Engineering</category>
     </item>
     <item>
+      <title>Agents aren’t humans (but they kinda are)</title>
+      <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/trusted-agent-delegation/</guid>
+      <pubDate>Thu, 05 Nov 2026 17:03:04 GMT</pubDate>
+      <description>AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>More visibility and control over Claude Enterprise for security teams</title>
       <link>https://claude.com/resources/articles/claude-enterprise-security-updates</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/claude-enterprise-security-updates</guid>
@@ -228,6 +236,22 @@
       <category>Claude Blog</category>
     </item>
     <item>
+      <title>How Commerce.com and Cloudflare are getting storefronts ready for AI agents</title>
+      <link>https://blog.cloudflare.com/webmcp-commerce/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/webmcp-commerce/</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <description>Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here&apos;s how we turned it on across every store at once, while keeping each merchant in control.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Cutting our inference bill by 68% by being obsessive about optimization</title>
+      <link>https://blog.cloudflare.com/obsessive-inference-optimization/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/obsessive-inference-optimization/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:12:53 GMT</pubDate>
+      <description>When our AI code reviewer&apos;s cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>How the Claude Code team does code review</title>
       <link>https://claude.dev/blog/solving-code-review-at-anthropic/</link>
       <guid isPermaLink="true">https://claude.dev/blog/solving-code-review-at-anthropic/</guid>
@@ -275,11 +299,27 @@
       <category>claude.dev</category>
     </item>
     <item>
+      <title>Everything we launched during Birthday Week 2026</title>
+      <link>https://blog.cloudflare.com/birthday-week-2026-wrap-up/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/birthday-week-2026-wrap-up/</guid>
+      <pubDate>Mon, 05 Oct 2026 13:00:00 GMT</pubDate>
+      <description>We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>How Cresta turned CX expertise into an agent builder on the Claude Agent SDK</title>
       <link>https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</link>
       <guid isPermaLink="true">https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
       <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Protected Quick Tunnels: simple accountless authentication for your next dev project</title>
+      <link>https://blog.cloudflare.com/protected-quick-tunnels/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/protected-quick-tunnels/</guid>
+      <pubDate>Fri, 02 Oct 2026 13:00:00 GMT</pubDate>
+      <description>Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side.</description>
+      <category>Cloudflare Agents</category>
     </item>
     <item>
       <title>Customize Claude Code with mods</title>
@@ -297,6 +337,14 @@
       <category>claude.dev</category>
     </item>
     <item>
+      <title>The Internet has a second audience</title>
+      <link>https://blog.cloudflare.com/agentic-web/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/agentic-web/</guid>
+      <pubDate>Wed, 30 Sep 2026 12:58:00 GMT</pubDate>
+      <description>More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We&apos;re giving site owners the tools to see who&apos;s visiting, decide who gets in, and charge for access.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>Claude for Government is now generally available</title>
       <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
       <guid isPermaLink="true">https://claude.com/blog/claude-for-government-is-now-generally-available</guid>
@@ -311,11 +359,35 @@
       <category>Claude Blog</category>
     </item>
     <item>
+      <title>Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account</title>
+      <link>https://blog.cloudflare.com/threat-signals/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/threat-signals/</guid>
+      <pubDate>Tue, 29 Sep 2026 13:00:00 GMT</pubDate>
+      <description>We are expanding access to Cloudforce One&apos;s Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>Agents you can coach: how Asana builds human-agent teams with Claude</title>
       <link>https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</link>
       <guid isPermaLink="true">https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
       <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Introducing cf: the agentic CLI for the entire Cloudflare API</title>
+      <link>https://blog.cloudflare.com/cloudflare-cf-cli-launch/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/cloudflare-cf-cli-launch/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:50:00 GMT</pubDate>
+      <description>We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more</title>
+      <link>https://blog.cloudflare.com/forge-open-source-generation-pipeline/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/forge-open-source-generation-pipeline/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 GMT</pubDate>
+      <description>Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync.</description>
+      <category>Cloudflare Agents</category>
     </item>
     <item>
       <title>Giving companies more control over their AI agents, with NVIDIA</title>
@@ -339,6 +411,14 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
       <description>When to choose Sonnet over Opus, what it costs, and how to tune it.</description>
       <category>claude.dev</category>
+    </item>
+    <item>
+      <title>Agents can now set up your website’s security with Turnstile Spin</title>
+      <link>https://blog.cloudflare.com/turnstile-spin/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/turnstile-spin/</guid>
+      <pubDate>Fri, 25 Sep 2026 13:00:00 GMT</pubDate>
+      <description>Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification.</description>
+      <category>Cloudflare Agents</category>
     </item>
     <item>
       <title>Build plugins for Claude</title>
@@ -376,6 +456,14 @@
       <guid isPermaLink="true">https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
       <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Improved token efficiency for longer agent runs</title>
+      <link>https://cursor.com/blog/improved-token-efficiency</link>
+      <guid isPermaLink="true">https://cursor.com/blog/improved-token-efficiency</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Changes across Cursor&apos;s agent harness reduced token costs for users by 7% without reducing agent quality.</description>
+      <category>Cursor Research</category>
     </item>
     <item>
       <title>Claude Marketplace: one place to discover plugins, agents, and services from our partners</title>
@@ -584,12 +672,131 @@
       <category>OpenAI Developer Blog</category>
     </item>
     <item>
+      <title>From all-or-nothing to task-based OAuth consent</title>
+      <link>https://blog.cloudflare.com/task-based-oauth-consent/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/task-based-oauth-consent/</guid>
+      <pubDate>Thu, 20 Aug 2026 17:03:03 GMT</pubDate>
+      <description>Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>Codex as a platform: build on the open agent harness</title>
       <link>https://developers.openai.com/blog/codex-as-a-platform</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/codex-as-a-platform</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
       <description>Build Codex into the products and workflows your users already know.</description>
       <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Git at any scale</title>
+      <link>https://cursor.com/blog/git-at-any-scale</link>
+      <guid isPermaLink="true">https://cursor.com/blog/git-at-any-scale</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+      <category>Cursor Research</category>
+    </item>
+    <item>
+      <title>Introducing Grok 4.6</title>
+      <link>https://cursor.com/blog/grok-4-6</link>
+      <guid isPermaLink="true">https://cursor.com/blog/grok-4-6</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Built for long-running agents and more ambitious interactive and visual work.</description>
+      <category>Cursor Research</category>
+    </item>
+    <item>
+      <title>Everything we launched during Agents Week</title>
+      <link>https://blog.cloudflare.com/agents-week-review-august-2026/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/agents-week-review-august-2026/</guid>
+      <pubDate>Mon, 10 Aug 2026 18:34:10 GMT</pubDate>
+      <description>Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Unveiling good and bad behaviors on the Agentic Internet</title>
+      <link>https://blog.cloudflare.com/good-and-bad-agentic-behaviors/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/good-and-bad-agentic-behaviors/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:01:00 GMT</pubDate>
+      <description>Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out our Precursor Trace simulation to see how your own cursor movements would be assessed as human or bot.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding</title>
+      <link>https://blog.cloudflare.com/community-program-refresh/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/community-program-refresh/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:00:00 GMT</pubDate>
+      <description>We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Introducing Radar Researcher: An AI tool for exploring Internet data in plain language</title>
+      <link>https://blog.cloudflare.com/introducing-radar-researcher/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/introducing-radar-researcher/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:00:00 GMT</pubDate>
+      <description>Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare&apos;s Developer Platform, it turns natural language queries into real, interactive charts.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Unifying Workers AI and AI Gateway into a single AI control plane</title>
+      <link>https://blog.cloudflare.com/workers-ai-gateway-unification/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/workers-ai-gateway-unification/</guid>
+      <pubDate>Fri, 07 Aug 2026 13:00:00 GMT</pubDate>
+      <description>Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing simplify building resilient AI applications.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>From ranking to recommended: get your site ready to thrive in the age of AI agents</title>
+      <link>https://blog.cloudflare.com/aeo/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/aeo/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>More than half of requests now come from machines, not people. Agent Readiness shows how well agents can discover and read your site, while Answer Engine Optimization tracks how often AI assistants recommend you.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Cloudflare AI Search: give your agents a search engine for your data</title>
+      <link>https://blog.cloudflare.com/ai-search-easier/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/ai-search-easier/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>AI Search makes search easier than ever, with no Cloudflare primitives to stitch together. Point it at your data to create a search for your own files and websites. We&apos;re also sharing a preview of our new pricing model.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>The next generation of MCP</title>
+      <link>https://blog.cloudflare.com/mcp-v2/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/mcp-v2/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>Building an open Agentic Internet: readable, discoverable, callable, and payable</title>
+      <link>https://blog.cloudflare.com/the-agentic-internet/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/the-agentic-internet/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <description>Agents are a new kind of visitor. They don&apos;t render CSS or click ads, but they have a paying human on the other end. Block them and you block your customer. We&apos;re building the open tools and protocols so publishers and agents can cooperate and not collide.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
+      <title>How Cursor Router chooses the right model for the task</title>
+      <link>https://cursor.com/blog/how-cursor-router-works</link>
+      <guid isPermaLink="true">https://cursor.com/blog/how-cursor-router-works</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Auto Intelligence now delivers above Fable-level satisfaction at 68% lower cost. Here&apos;s how Compass and the task router choose models from real developer traffic.</description>
+      <category>Cursor Research</category>
+    </item>
+    <item>
+      <title>Mixture-of-Kittens: our open-source MoE megakernel for NVL72s</title>
+      <link>https://cursor.com/blog/mixture-of-kittens</link>
+      <guid isPermaLink="true">https://cursor.com/blog/mixture-of-kittens</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+      <description>We&apos;re open-sourcing Mixture-of-Kittens, a deterministic MoE training megakernel for NVL72s that fuses communication and computation into a single kernel.</description>
+      <category>Cursor Research</category>
+    </item>
+    <item>
+      <title>How we set up our cloud agent environment</title>
+      <link>https://cursor.com/blog/cloud-agent-environment</link>
+      <guid isPermaLink="true">https://cursor.com/blog/cloud-agent-environment</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Getting our monorepo working for cloud agents taught us that the development environment is a product in its own right, only one whose users are agents.</description>
+      <category>Cursor Research</category>
     </item>
     <item>
       <title>The new rules of context engineering for Claude 5 generation models</title>
@@ -600,12 +807,36 @@
       <category>claude.dev</category>
     </item>
     <item>
+      <title>Agent swarms and the new model economics</title>
+      <link>https://cursor.com/blog/agent-swarm-model-economics</link>
+      <guid isPermaLink="true">https://cursor.com/blog/agent-swarm-model-economics</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+      <description>We compared old and new agent swarms building SQLite from scratch and found that better coordination delivers similar quality at a fraction of the cost.</description>
+      <category>Cursor Research</category>
+    </item>
+    <item>
       <title>Custom Code Review rules for Codex</title>
       <link>https://developers.openai.com/blog/custom-code-review-rules-for-codex</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/custom-code-review-rules-for-codex</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
       <description>Provide more detailed rules for Codex to spot issues and better adhere your conventions during code review.</description>
       <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Grok 4.5 Model Card</title>
+      <link>https://cursor.com/blog/grok-4-5-model-card</link>
+      <guid isPermaLink="true">https://cursor.com/blog/grok-4-5-model-card</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <description>The official model card for Grok 4.5. It documents the model&apos;s capability benchmarks and safety evaluations.</description>
+      <category>Cursor Research</category>
+    </item>
+    <item>
+      <title>Introducing Grok 4.5</title>
+      <link>https://cursor.com/blog/grok-4-5</link>
+      <guid isPermaLink="true">https://cursor.com/blog/grok-4-5</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Our most intelligent model and the first we&apos;ve built for more than software engineering.</description>
+      <category>Cursor Research</category>
     </item>
     <item>
       <title>Making private MCP servers reachable without making them public</title>
@@ -616,12 +847,28 @@
       <category>OpenAI Developer Blog</category>
     </item>
     <item>
+      <title>Reward hacking is swamping model intelligence gains</title>
+      <link>https://cursor.com/blog/reward-hacking-coding-benchmarks</link>
+      <guid isPermaLink="true">https://cursor.com/blog/reward-hacking-coding-benchmarks</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
+      <description>On SWE-bench Pro, 63% of successful Opus 4.8 Max resolutions retrieved the fix rather than derived it. Stricter eval harnesses show how benchmark scores can conflate coding ability with answer retrieval.</description>
+      <category>Cursor Research</category>
+    </item>
+    <item>
       <title>Mastering remote engineering work from your phone</title>
       <link>https://developers.openai.com/blog/mastering-codex-remote-for-engineering</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/mastering-codex-remote-for-engineering</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
       <description>Use Remote in the ChatGPT mobile app to start, steer, review, and organize engineering work.</description>
       <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
+      <title>Governing agent autonomy with Auto-review</title>
+      <link>https://cursor.com/blog/agent-autonomy-auto-review</link>
+      <guid isPermaLink="true">https://cursor.com/blog/agent-autonomy-auto-review</guid>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Auto-review uses a classifier agent to govern local agent autonomy, allowing low-stakes actions to run freely while slowing down when an action crosses a meaningful boundary.</description>
+      <category>Cursor Research</category>
     </item>
     <item>
       <title>Lessons from building Claude Code: How we use skills</title>

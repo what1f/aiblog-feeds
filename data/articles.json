@@ -746,5 +746,194 @@
       "description": "Introducing our developer blog",
       "publishedAt": "2025-09-11T00:00:00.000Z"
     }
+  ],
+  "cursor-research": [
+    {
+      "title": "Improved token efficiency for longer agent runs",
+      "url": "https://cursor.com/blog/improved-token-efficiency",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "description": "Changes across Cursor's agent harness reduced token costs for users by 7% without reducing agent quality."
+    },
+    {
+      "title": "Git at any scale",
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "publishedAt": "2026-08-18T12:00:00.000Z"
+    },
+    {
+      "title": "Introducing Grok 4.6",
+      "url": "https://cursor.com/blog/grok-4-6",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "description": "Built for long-running agents and more ambitious interactive and visual work."
+    },
+    {
+      "title": "How Cursor Router chooses the right model for the task",
+      "url": "https://cursor.com/blog/how-cursor-router-works",
+      "publishedAt": "2026-08-06T12:00:00.000Z",
+      "description": "Auto Intelligence now delivers above Fable-level satisfaction at 68% lower cost. Here's how Compass and the task router choose models from real developer traffic."
+    },
+    {
+      "title": "Mixture-of-Kittens: our open-source MoE megakernel for NVL72s",
+      "url": "https://cursor.com/blog/mixture-of-kittens",
+      "publishedAt": "2026-08-04T12:00:00.000Z",
+      "description": "We're open-sourcing Mixture-of-Kittens, a deterministic MoE training megakernel for NVL72s that fuses communication and computation into a single kernel."
+    },
+    {
+      "title": "How we set up our cloud agent environment",
+      "url": "https://cursor.com/blog/cloud-agent-environment",
+      "publishedAt": "2026-07-30T12:00:00.000Z",
+      "description": "Getting our monorepo working for cloud agents taught us that the development environment is a product in its own right, only one whose users are agents."
+    },
+    {
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "publishedAt": "2026-07-20T12:00:00.000Z",
+      "description": "We compared old and new agent swarms building SQLite from scratch and found that better coordination delivers similar quality at a fraction of the cost."
+    },
+    {
+      "title": "Grok 4.5 Model Card",
+      "url": "https://cursor.com/blog/grok-4-5-model-card",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "description": "The official model card for Grok 4.5. It documents the model's capability benchmarks and safety evaluations."
+    },
+    {
+      "title": "Introducing Grok 4.5",
+      "url": "https://cursor.com/blog/grok-4-5",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "description": "Our most intelligent model and the first we've built for more than software engineering."
+    },
+    {
+      "title": "Reward hacking is swamping model intelligence gains",
+      "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
+      "publishedAt": "2026-06-25T12:00:00.000Z",
+      "description": "On SWE-bench Pro, 63% of successful Opus 4.8 Max resolutions retrieved the fix rather than derived it. Stricter eval harnesses show how benchmark scores can conflate coding ability with answer retrieval."
+    },
+    {
+      "title": "Governing agent autonomy with Auto-review",
+      "url": "https://cursor.com/blog/agent-autonomy-auto-review",
+      "publishedAt": "2026-06-11T12:00:00.000Z",
+      "description": "Auto-review uses a classifier agent to govern local agent autonomy, allowing low-stakes actions to run freely while slowing down when an action crosses a meaningful boundary."
+    }
+  ],
+  "cloudflare-agents": [
+    {
+      "title": "Agents aren’t humans (but they kinda are)",
+      "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+      "publishedAt": "2026-11-05T17:03:04.000Z",
+      "description": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic."
+    },
+    {
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "publishedAt": "2026-10-21T13:00:00.000Z",
+      "description": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control."
+    },
+    {
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "publishedAt": "2026-10-19T19:12:53.000Z",
+      "description": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews."
+    },
+    {
+      "title": "Everything we launched during Birthday Week 2026",
+      "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+      "publishedAt": "2026-10-05T13:00:00.000Z",
+      "description": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped."
+    },
+    {
+      "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+      "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+      "publishedAt": "2026-10-02T13:00:00.000Z",
+      "description": "Quick Tunnels now support email authentication. Add --allowed-mail to one cloudflared command, and only the addresses or domains you list can reach your local app. No Cloudflare account required on either side."
+    },
+    {
+      "title": "The Internet has a second audience",
+      "url": "https://blog.cloudflare.com/agentic-web/",
+      "publishedAt": "2026-09-30T12:58:00.000Z",
+      "description": "More than half the traffic reaching sites on Cloudflare is now automated, and AI agents are the fastest-growing part of it. We're giving site owners the tools to see who's visiting, decide who gets in, and charge for access."
+    },
+    {
+      "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+      "url": "https://blog.cloudflare.com/threat-signals/",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "description": "We are expanding access to Cloudforce One's Threat Events Platform to every Cloudflare account and introducing Threat Signals. Threat Signals automatically parses open-source threat reporting, extracts structured indicators, and connects threat context directly to your WAF rules."
+    },
+    {
+      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "publishedAt": "2026-09-28T15:50:00.000Z",
+      "description": "We are releasing cf, our new command-line tool that mirrors the entire Cloudflare API and supports programmatic TypeScript configuration. We are also open-sourcing Forge, our internal SDK generator."
+    },
+    {
+      "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+      "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+      "publishedAt": "2026-09-28T13:00:00.000Z",
+      "description": "Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions. By shifting generation upstream into individual team repositories, Forge keeps developer tools continuously in sync."
+    },
+    {
+      "title": "Agents can now set up your website’s security with Turnstile Spin",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "publishedAt": "2026-09-25T13:00:00.000Z",
+      "description": "Misconfiguring Turnstile by skipping backend validation leaves sites exposed to bots. Turnstile Spin fixes incomplete setups by using your preferred AI coding agent to wire up server-side verification."
+    },
+    {
+      "title": "From all-or-nothing to task-based OAuth consent",
+      "url": "https://blog.cloudflare.com/task-based-oauth-consent/",
+      "publishedAt": "2026-08-20T17:03:03.000Z",
+      "description": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand."
+    },
+    {
+      "title": "Everything we launched during Agents Week",
+      "url": "https://blog.cloudflare.com/agents-week-review-august-2026/",
+      "publishedAt": "2026-08-10T18:34:10.000Z",
+      "description": "Our latest Agents Week has come to a close. Here’s a recap of all the announcements we made from Wallets to Radar."
+    },
+    {
+      "title": "Unveiling good and bad behaviors on the Agentic Internet",
+      "url": "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+      "publishedAt": "2026-08-07T13:01:00.000Z",
+      "description": "Cloudflare is shifting bot mitigation from point-in-time Risk assessment to continuous Trust evaluation. Learn how new good and bad behaviors from bots and agents are assessed by our systems, including BotBase and Precursor — and try out our Precursor Trace simulation to see how your own cursor movements would be assessed as human or bot."
+    },
+    {
+      "title": "Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding",
+      "url": "https://blog.cloudflare.com/community-program-refresh/",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "description": "We are launching updated community programs, including Cloudflare Ambassadors and Community Engineers, backed by $1M in open-source funding. Learn how we are supporting maintainers and scaling our developer community."
+    },
+    {
+      "title": "Introducing Radar Researcher: An AI tool for exploring Internet data in plain language",
+      "url": "https://blog.cloudflare.com/introducing-radar-researcher/",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "description": "Cloudflare Radar Researcher is a new AI-powered tool that lets you explore global Internet trends and traffic data using plain language. Built entirely on Cloudflare's Developer Platform, it turns natural language queries into real, interactive charts."
+    },
+    {
+      "title": "Unifying Workers AI and AI Gateway into a single AI control plane",
+      "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "description": "Cloudflare is unifying AI Gateway and Workers AI into a single control plane, giving developers observability, billing, and dynamic routing across both managed GPUs and external providers. Learn how unified bindings and model-first routing simplify building resilient AI applications."
+    },
+    {
+      "title": "From ranking to recommended: get your site ready to thrive in the age of AI agents",
+      "url": "https://blog.cloudflare.com/aeo/",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "description": "More than half of requests now come from machines, not people. Agent Readiness shows how well agents can discover and read your site, while Answer Engine Optimization tracks how often AI assistants recommend you."
+    },
+    {
+      "title": "Cloudflare AI Search: give your agents a search engine for your data",
+      "url": "https://blog.cloudflare.com/ai-search-easier/",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "description": "AI Search makes search easier than ever, with no Cloudflare primitives to stitch together. Point it at your data to create a search for your own files and websites. We're also sharing a preview of our new pricing model."
+    },
+    {
+      "title": "The next generation of MCP",
+      "url": "https://blog.cloudflare.com/mcp-v2/",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "description": "The next version of MCP has a rewritten, stateless core that just works on Workers. We cover upgrades to the protocol, the new feature lifecycle and SDK migration path, and hear from early adopters already running it in production."
+    },
+    {
+      "title": "Building an open Agentic Internet: readable, discoverable, callable, and payable",
+      "url": "https://blog.cloudflare.com/the-agentic-internet/",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "description": "Agents are a new kind of visitor. They don't render CSS or click ads, but they have a paying human on the other end. Block them and you block your customer. We're building the open tools and protocols so publishers and agents can cooperate and not collide."
+    }
   ]
 }
