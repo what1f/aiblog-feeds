@@ -6,6 +6,13 @@
     <description>Articles tagged Agents from the official Cloudflare Blog RSS feed.</description>
     <language>en</language>
     <item>
+      <title>Kitesurf is now open source</title>
+      <link>https://blog.cloudflare.com/kitesurf-open-source/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/kitesurf-open-source/</guid>
+      <pubDate>Fri, 13 Nov 2026 20:20:21 GMT</pubDate>
+      <description>Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.</description>
+    </item>
+    <item>
       <title>Agents aren’t humans (but they kinda are)</title>
       <link>https://blog.cloudflare.com/trusted-agent-delegation/</link>
       <guid isPermaLink="true">https://blog.cloudflare.com/trusted-agent-delegation/</guid>

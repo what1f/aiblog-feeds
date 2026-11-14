@@ -826,6 +826,12 @@
   ],
   "cloudflare-agents": [
     {
+      "title": "Kitesurf is now open source",
+      "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+      "publishedAt": "2026-11-13T20:20:21.000Z",
+      "description": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers."
+    },
+    {
       "title": "Agents aren’t humans (but they kinda are)",
       "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
       "publishedAt": "2026-11-05T17:03:04.000Z",

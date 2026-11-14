@@ -6,6 +6,14 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Kitesurf is now open source</title>
+      <link>https://blog.cloudflare.com/kitesurf-open-source/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/kitesurf-open-source/</guid>
+      <pubDate>Fri, 13 Nov 2026 20:20:21 GMT</pubDate>
+      <description>Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>Building always-on agents</title>
       <link>https://claude.com/resources/articles/building-always-on-agents</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/building-always-on-agents</guid>
