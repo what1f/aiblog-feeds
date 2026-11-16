@@ -438,6 +438,12 @@
   ],
   "claude-dev": [
     {
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "description": "How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest."
+    },
+    {
       "title": "Safely scaling multi-agent teams with Claude Fable 5.2",
       "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
       "publishedAt": "2026-11-09T00:00:00.000Z",

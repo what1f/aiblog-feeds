@@ -6,6 +6,14 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>How the Claude Code team thinks about verification</title>
+      <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>Kitesurf is now open source</title>
       <link>https://blog.cloudflare.com/kitesurf-open-source/</link>
       <guid isPermaLink="true">https://blog.cloudflare.com/kitesurf-open-source/</guid>

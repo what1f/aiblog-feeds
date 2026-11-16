@@ -6,6 +6,13 @@
     <description>Technical writing for people building with Claude.</description>
     <language>en</language>
     <item>
+      <title>How the Claude Code team thinks about verification</title>
+      <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How end-to-end, property and differential tests let coding agents verify their work with evidence, and what the Claude Code team does to keep its verifiers honest.</description>
+    </item>
+    <item>
       <title>Safely scaling multi-agent teams with Claude Fable 5.2</title>
       <link>https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/</link>
       <guid isPermaLink="true">https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/</guid>
