@@ -6,6 +6,13 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Linked billing on the Claude Platform</title>
+      <link>https://claude.com/resources/articles/linked-billing-on-claude-platform</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/linked-billing-on-claude-platform</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
       <title>How the Claude Code team thinks about verification</title>
       <link>https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</link>
       <guid isPermaLink="true">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</guid>

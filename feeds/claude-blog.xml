@@ -6,6 +6,12 @@
     <description>Articles from the Claude blog.</description>
     <language>en</language>
     <item>
+      <title>Linked billing on the Claude Platform</title>
+      <link>https://claude.com/resources/articles/linked-billing-on-claude-platform</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/linked-billing-on-claude-platform</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Building always-on agents</title>
       <link>https://claude.com/resources/articles/building-always-on-agents</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/building-always-on-agents</guid>

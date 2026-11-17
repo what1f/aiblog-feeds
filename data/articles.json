@@ -171,6 +171,11 @@
   ],
   "claude-blog": [
     {
+      "title": "Linked billing on the Claude Platform",
+      "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+      "publishedAt": "2026-11-17T00:00:00.000Z"
+    },
+    {
       "title": "Building always-on agents",
       "url": "https://claude.com/resources/articles/building-always-on-agents",
       "publishedAt": "2026-11-13T00:00:00.000Z"
