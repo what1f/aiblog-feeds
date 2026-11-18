@@ -443,6 +443,12 @@
   ],
   "claude-dev": [
     {
+      "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
+      "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "description": "Claude Docs is a doc editor that you, your teammates, and Claude all work in together. The interesting part is that a Claude session anywhere, from chat to Claude Code, can open the same doc and read, write, and comment in it live, right next to you. We released Docs on September 16, 2026. This post is about the service that runs underneath it."
+    },
+    {
       "title": "How the Claude Code team thinks about verification",
       "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
       "publishedAt": "2026-11-16T00:00:00.000Z",
