@@ -6,6 +6,14 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Prompting GPT-Live for languages and regional accents</title>
+      <link>https://developers.openai.com/blog/prompting-multilingual-voice-agents</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/prompting-multilingual-voice-agents</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Design a regional voice, test pronunciation and local conventions, and customize prompts for multilingual voice agents.</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
       <title>Linked billing on the Claude Platform</title>
       <link>https://claude.com/resources/articles/linked-billing-on-claude-platform</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/linked-billing-on-claude-platform</guid>
@@ -1511,13 +1519,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/contextual-retrieval</guid>
       <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
-    </item>
-    <item>
-      <title>Code Droid: A Technical Report</title>
-      <link>https://factory.com/news/code-droid-technical-report</link>
-      <guid isPermaLink="true">https://factory.com/news/code-droid-technical-report</guid>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <category>Factory Droid Research</category>
     </item>
   </channel>
 </rss>

@@ -565,6 +565,12 @@
   ],
   "openai-developers": [
     {
+      "title": "Prompting GPT-Live for languages and regional accents",
+      "url": "https://developers.openai.com/blog/prompting-multilingual-voice-agents",
+      "description": "Design a regional voice, test pronunciation and local conventions, and customize prompts for multilingual voice agents.",
+      "publishedAt": "2026-11-19T00:00:00.000Z"
+    },
+    {
       "title": "Securing persistent agents like OpenClaw at OpenAI",
       "url": "https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai",
       "description": "How OpenAI combines trusted control-plane services, Codex sandboxing, auto-review, agent identity, and observability to run persistent agents.",

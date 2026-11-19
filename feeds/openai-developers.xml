@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Prompting GPT-Live for languages and regional accents</title>
+      <link>https://developers.openai.com/blog/prompting-multilingual-voice-agents</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/prompting-multilingual-voice-agents</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Design a regional voice, test pronunciation and local conventions, and customize prompts for multilingual voice agents.</description>
+    </item>
+    <item>
       <title>Securing persistent agents like OpenClaw at OpenAI</title>
       <link>https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/securing-persistent-agents-like-openclaw-at-openai</guid>
