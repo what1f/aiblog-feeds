@@ -6,6 +6,14 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Time awareness and async input for personal agents</title>
+      <link>https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How to build agents that consider time constraints and keep working while waiting for user input</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
       <title>Prompting GPT-Live for languages and regional accents</title>
       <link>https://developers.openai.com/blog/prompting-multilingual-voice-agents</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/prompting-multilingual-voice-agents</guid>
@@ -1511,13 +1519,6 @@
       <link>https://www.anthropic.com/engineering/building-effective-agents</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/building-effective-agents</guid>
       <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-      <category>Anthropic Engineering</category>
-    </item>
-    <item>
-      <title>Introducing Contextual Retrieval</title>
-      <link>https://www.anthropic.com/engineering/contextual-retrieval</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/contextual-retrieval</guid>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
   </channel>

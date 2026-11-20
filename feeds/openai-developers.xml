@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Time awareness and async input for personal agents</title>
+      <link>https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How to build agents that consider time constraints and keep working while waiting for user input</description>
+    </item>
+    <item>
       <title>Prompting GPT-Live for languages and regional accents</title>
       <link>https://developers.openai.com/blog/prompting-multilingual-voice-agents</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/prompting-multilingual-voice-agents</guid>

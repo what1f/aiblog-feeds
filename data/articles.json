@@ -565,6 +565,12 @@
   ],
   "openai-developers": [
     {
+      "title": "Time awareness and async input for personal agents",
+      "url": "https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents",
+      "description": "How to build agents that consider time constraints and keep working while waiting for user input",
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
       "title": "Prompting GPT-Live for languages and regional accents",
       "url": "https://developers.openai.com/blog/prompting-multilingual-voice-agents",
       "description": "Design a regional voice, test pronunciation and local conventions, and customize prompts for multilingual voice agents.",
