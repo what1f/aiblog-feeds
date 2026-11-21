@@ -6,6 +6,14 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>How I stay in the flow with Ultrafast</title>
+      <link>https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How I use Ultrafast in Codex to try small UI changes, give feedback, and stay in the zone, and where I’d try it in the API.</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
       <title>Time awareness and async input for personal agents</title>
       <link>https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</guid>
@@ -1512,13 +1520,6 @@
       <link>https://www.anthropic.com/engineering/swe-bench-sonnet</link>
       <guid isPermaLink="true">https://www.anthropic.com/engineering/swe-bench-sonnet</guid>
       <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-      <category>Anthropic Engineering</category>
-    </item>
-    <item>
-      <title>Building effective agents</title>
-      <link>https://www.anthropic.com/engineering/building-effective-agents</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/building-effective-agents</guid>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
   </channel>

@@ -565,6 +565,12 @@
   ],
   "openai-developers": [
     {
+      "title": "How I stay in the flow with Ultrafast",
+      "url": "https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast",
+      "description": "How I use Ultrafast in Codex to try small UI changes, give feedback, and stay in the zone, and where I’d try it in the API.",
+      "publishedAt": "2026-11-20T00:00:00.000Z"
+    },
+    {
       "title": "Time awareness and async input for personal agents",
       "url": "https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents",
       "description": "How to build agents that consider time constraints and keep working while waiting for user input",

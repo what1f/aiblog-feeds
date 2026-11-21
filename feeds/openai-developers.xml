@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>How I stay in the flow with Ultrafast</title>
+      <link>https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>How I use Ultrafast in Codex to try small UI changes, give feedback, and stay in the zone, and where I’d try it in the API.</description>
+    </item>
+    <item>
       <title>Time awareness and async input for personal agents</title>
       <link>https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/time-awareness-and-async-input-for-personal-agents</guid>
