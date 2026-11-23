@@ -6,6 +6,42 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>The enterprise guide to securing coding agents</title>
+      <link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Introducing Claude Ship</title>
+      <link>https://claude.com/resources/articles/introducing-claude-ship</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/introducing-claude-ship</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>KPMG&apos;s Todd Lohr on AI when your data is also your clients&apos; data</title>
+      <link>https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Zero data retention with Enterprise Frontier Safeguards is now in beta</title>
+      <link>https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>Building security review into your SDLC with Codex Security</title>
+      <link>https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Four principles for integrating security reviews into development with Codex Security and the CLI.</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
       <title>How I stay in the flow with Ultrafast</title>
       <link>https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</guid>
@@ -1484,43 +1520,6 @@
       <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
       <description>How we build Amp.</description>
       <category>Amp Notes</category>
-    </item>
-    <item>
-      <title>Frequently Ignored Feedback (FIF)</title>
-      <link>https://ampcode.com/notes/fif</link>
-      <guid isPermaLink="true">https://ampcode.com/notes/fif</guid>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
-      <description>Our responses to common feedback that we are intentionally not acting on.</description>
-      <category>Amp Notes</category>
-    </item>
-    <item>
-      <title>Claude Code: Best practices for agentic coding</title>
-      <link>https://www.anthropic.com/research/claude-code-best-practices</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/claude-code-best-practices</guid>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-      <category>Anthropic Engineering</category>
-    </item>
-    <item>
-      <title>The &quot;think&quot; tool: Enabling Claude to stop and think in complex tool use situations</title>
-      <link>https://www.anthropic.com/research/claude-think-tool</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/claude-think-tool</guid>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-      <category>Anthropic Engineering</category>
-    </item>
-    <item>
-      <title>Building AI for Safe and Responsible Autonomy: Our Readiness Policy</title>
-      <link>https://factory.com/news/safe-autonomy-readiness-policy</link>
-      <guid isPermaLink="true">https://factory.com/news/safe-autonomy-readiness-policy</guid>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
-      <description>Our mission at Factory is to bring autonomy to software engineering in a way that prioritizes safety, responsibility, and transparency.</description>
-      <category>Factory Droid Research</category>
-    </item>
-    <item>
-      <title>Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet</title>
-      <link>https://www.anthropic.com/engineering/swe-bench-sonnet</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/swe-bench-sonnet</guid>
-      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-      <category>Anthropic Engineering</category>
     </item>
   </channel>
 </rss>

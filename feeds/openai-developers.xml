@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Building security review into your SDLC with Codex Security</title>
+      <link>https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Four principles for integrating security reviews into development with Codex Security and the CLI.</description>
+    </item>
+    <item>
       <title>How I stay in the flow with Ultrafast</title>
       <link>https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast</guid>

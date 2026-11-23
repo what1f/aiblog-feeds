@@ -171,6 +171,26 @@
   ],
   "claude-blog": [
     {
+      "title": "The enterprise guide to securing coding agents",
+      "url": "https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "title": "Introducing Claude Ship",
+      "url": "https://claude.com/resources/articles/introducing-claude-ship",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "title": "KPMG's Todd Lohr on AI when your data is also your clients' data",
+      "url": "https://claude.com/resources/articles/kpmg-todd-lohr-on-ai-when-your-data-is-also-your-clients-data",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
+      "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+      "url": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
+    },
+    {
       "title": "Linked billing on the Claude Platform",
       "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
       "publishedAt": "2026-11-17T00:00:00.000Z"
@@ -564,6 +584,12 @@
     }
   ],
   "openai-developers": [
+    {
+      "title": "Building security review into your SDLC with Codex Security",
+      "url": "https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security",
+      "description": "Four principles for integrating security reviews into development with Codex Security and the CLI.",
+      "publishedAt": "2026-11-23T00:00:00.000Z"
+    },
     {
       "title": "How I stay in the flow with Ultrafast",
       "url": "https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast",
