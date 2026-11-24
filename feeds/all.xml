@@ -6,6 +6,28 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Turn artifacts into Mac and Windows apps</title>
+      <link>https://claude.com/resources/articles/install-as-app</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/install-as-app</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>MCP servers can now ship skills, run tasks, and more with Claude</title>
+      <link>https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Claude Blog</category>
+    </item>
+    <item>
+      <title>A practical guide to shipping with Claude Code</title>
+      <link>https://claude.dev/blog/the-work-after-you-open-a-pr/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/the-work-after-you-open-a-pr/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>After you open a pull request, hand the follow up to Claude Code using /ship. Here&apos;s how to dial in your preferences to stay in flow.</description>
+      <category>claude.dev</category>
+    </item>
+    <item>
       <title>The enterprise guide to securing coding agents</title>
       <link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</guid>
@@ -1496,30 +1518,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/engineering/multi-agent-research-system</guid>
       <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
-    </item>
-    <item>
-      <title>Agents for the Agent</title>
-      <link>https://ampcode.com/notes/agents-for-the-agent</link>
-      <guid isPermaLink="true">https://ampcode.com/notes/agents-for-the-agent</guid>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-      <description>Amp now has new subagents and they&apos;re more powerful than ever.</description>
-      <category>Amp Notes</category>
-    </item>
-    <item>
-      <title>Amp is now available. Here&apos;s how I use it.</title>
-      <link>https://ampcode.com/notes/how-i-use-amp</link>
-      <guid isPermaLink="true">https://ampcode.com/notes/how-i-use-amp</guid>
-      <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-      <description>How I personally use Amp to develop software.</description>
-      <category>Amp Notes</category>
-    </item>
-    <item>
-      <title>How We Build</title>
-      <link>https://ampcode.com/how-we-build</link>
-      <guid isPermaLink="true">https://ampcode.com/how-we-build</guid>
-      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
-      <description>How we build Amp.</description>
-      <category>Amp Notes</category>
     </item>
   </channel>
 </rss>

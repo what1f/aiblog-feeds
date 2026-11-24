@@ -6,6 +6,13 @@
     <description>Technical writing for people building with Claude.</description>
     <language>en</language>
     <item>
+      <title>A practical guide to shipping with Claude Code</title>
+      <link>https://claude.dev/blog/the-work-after-you-open-a-pr/</link>
+      <guid isPermaLink="true">https://claude.dev/blog/the-work-after-you-open-a-pr/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>After you open a pull request, hand the follow up to Claude Code using /ship. Here&apos;s how to dial in your preferences to stay in flow.</description>
+    </item>
+    <item>
       <title>Using a &quot;chaos loop&quot; to harden the Claude Docs launch: 60 server errors across billions of requests</title>
       <link>https://claude.dev/blog/chaos-loop-claude-docs-launch/</link>
       <guid isPermaLink="true">https://claude.dev/blog/chaos-loop-claude-docs-launch/</guid>

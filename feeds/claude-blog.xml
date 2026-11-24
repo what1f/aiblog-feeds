@@ -6,6 +6,18 @@
     <description>Articles from the Claude blog.</description>
     <language>en</language>
     <item>
+      <title>Turn artifacts into Mac and Windows apps</title>
+      <link>https://claude.com/resources/articles/install-as-app</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/install-as-app</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP servers can now ship skills, run tasks, and more with Claude</title>
+      <link>https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</link>
+      <guid isPermaLink="true">https://claude.com/resources/articles/skills-over-mcp-tasks-and-more</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>The enterprise guide to securing coding agents</title>
       <link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</guid>

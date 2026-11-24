@@ -171,6 +171,16 @@
   ],
   "claude-blog": [
     {
+      "title": "Turn artifacts into Mac and Windows apps",
+      "url": "https://claude.com/resources/articles/install-as-app",
+      "publishedAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "publishedAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
       "title": "The enterprise guide to securing coding agents",
       "url": "https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents",
       "publishedAt": "2026-11-23T00:00:00.000Z"
@@ -462,6 +472,12 @@
     }
   ],
   "claude-dev": [
+    {
+      "title": "A practical guide to shipping with Claude Code",
+      "url": "https://claude.dev/blog/the-work-after-you-open-a-pr/",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "description": "After you open a pull request, hand the follow up to Claude Code using /ship. Here's how to dial in your preferences to stay in flow."
+    },
     {
       "title": "Using a \"chaos loop\" to harden the Claude Docs launch: 60 server errors across billions of requests",
       "url": "https://claude.dev/blog/chaos-loop-claude-docs-launch/",
