@@ -28,6 +28,14 @@
       <category>claude.dev</category>
     </item>
     <item>
+      <title>Production monitoring with Codex</title>
+      <link>https://developers.openai.com/blog/production-monitoring-with-codex</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/production-monitoring-with-codex</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Investigate production failures with Codex using telemetry, deployment history, and code.</description>
+      <category>OpenAI Developer Blog</category>
+    </item>
+    <item>
       <title>The enterprise guide to securing coding agents</title>
       <link>https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</link>
       <guid isPermaLink="true">https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents</guid>
@@ -1510,13 +1518,6 @@
       <link>https://www.anthropic.com/research/confidential-inference-trusted-vms</link>
       <guid isPermaLink="true">https://www.anthropic.com/research/confidential-inference-trusted-vms</guid>
       <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-      <category>Anthropic Engineering</category>
-    </item>
-    <item>
-      <title>How we built our multi-agent research system</title>
-      <link>https://www.anthropic.com/research/multi-agent-research-system</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/multi-agent-research-system</guid>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
       <category>Anthropic Engineering</category>
     </item>
   </channel>

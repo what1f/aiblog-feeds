@@ -6,6 +6,13 @@
     <description>Developer articles from OpenAI.</description>
     <language>en</language>
     <item>
+      <title>Production monitoring with Codex</title>
+      <link>https://developers.openai.com/blog/production-monitoring-with-codex</link>
+      <guid isPermaLink="true">https://developers.openai.com/blog/production-monitoring-with-codex</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Investigate production failures with Codex using telemetry, deployment history, and code.</description>
+    </item>
+    <item>
       <title>Building security review into your SDLC with Codex Security</title>
       <link>https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</link>
       <guid isPermaLink="true">https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security</guid>

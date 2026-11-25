@@ -601,6 +601,12 @@
   ],
   "openai-developers": [
     {
+      "title": "Production monitoring with Codex",
+      "url": "https://developers.openai.com/blog/production-monitoring-with-codex",
+      "description": "Investigate production failures with Codex using telemetry, deployment history, and code.",
+      "publishedAt": "2026-11-24T00:00:00.000Z"
+    },
+    {
       "title": "Building security review into your SDLC with Codex Security",
       "url": "https://developers.openai.com/blog/building-security-review-into-your-sdlc-with-codex-security",
       "description": "Four principles for integrating security reviews into development with Codex Security and the CLI.",
