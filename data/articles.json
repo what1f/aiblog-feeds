@@ -914,6 +914,12 @@
   ],
   "cloudflare-agents": [
     {
+      "title": "Introducing Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents/",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "description": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support."
+    },
+    {
       "title": "Kitesurf is now open source",
       "url": "https://blog.cloudflare.com/kitesurf-open-source/",
       "publishedAt": "2026-11-13T20:20:21.000Z",

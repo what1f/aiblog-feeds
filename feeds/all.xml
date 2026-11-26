@@ -6,6 +6,14 @@
     <description>AI developer and engineering articles from selected blogs.</description>
     <language>en</language>
     <item>
+      <title>Introducing Search for Agents</title>
+      <link>https://blog.cloudflare.com/search-for-agents/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/search-for-agents/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.</description>
+      <category>Cloudflare Agents</category>
+    </item>
+    <item>
       <title>Migrating our Messages API to Rust</title>
       <link>https://www.anthropic.com/research/migrating-api-to-rust</link>
       <guid isPermaLink="true">https://www.anthropic.com/research/migrating-api-to-rust</guid>
@@ -1512,13 +1520,6 @@
       <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
       <description>LLMs attend only to the tokens in their current prompt. Because every model enforces a finite context window, extended conversations and multi-step workflows eventually exceed that limit. Our strategy for retaining, selecting, and compressing prior turns is a major lever on inference quality, latency, and cost.</description>
       <category>Factory Droid Research</category>
-    </item>
-    <item>
-      <title>Desktop Extensions: One-click MCP server installation for Claude Desktop</title>
-      <link>https://www.anthropic.com/research/desktop-extensions</link>
-      <guid isPermaLink="true">https://www.anthropic.com/engineering/desktop-extensions</guid>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
-      <category>Anthropic Engineering</category>
     </item>
   </channel>
 </rss>

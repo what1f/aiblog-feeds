@@ -6,6 +6,13 @@
     <description>Articles tagged Agents from the official Cloudflare Blog RSS feed.</description>
     <language>en</language>
     <item>
+      <title>Introducing Search for Agents</title>
+      <link>https://blog.cloudflare.com/search-for-agents/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/search-for-agents/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.</description>
+    </item>
+    <item>
       <title>Kitesurf is now open source</title>
       <link>https://blog.cloudflare.com/kitesurf-open-source/</link>
       <guid isPermaLink="true">https://blog.cloudflare.com/kitesurf-open-source/</guid>
